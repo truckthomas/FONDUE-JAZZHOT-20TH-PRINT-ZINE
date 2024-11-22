@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: FONDUE-JAZZHOT -  Transcriptions of French JazzHot Magazine's programs and news columns
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Gauffroy-Naudin
+    given-names: Thomas
+    email: thomas.gauffroy-naudin@unige.ch
+    affiliation: University of Geneva
+    orcid: https://orcid.org/0009-0003-5309-8515
+repository-code: 'https://github.com/truckthomas/FONDUE-JAZZHOT'
+keywords:
+  - HTR
+  - french
+  - magazine
+  - prints
+  - jazz
+version: 1.0
+date-released: 2024-11-22
