@@ -1,7 +1,7 @@
 # FONDUE-JAZZHOT-20TH-PRINT-ZINE
 
 
-![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
 
 This repository is a work in progress for Thomas Gauffroy-Naudin's DH certificate project, supervised by Simon Gabay at the University of Geneva.
 
