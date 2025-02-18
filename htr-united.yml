@@ -1,15 +1,124 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: FONDUE-JAZZHOT-20TH-PRINT-ZINE
-url: https://github.com/truckthomas/FONDUE-JAZZHOT-20TH-PRINT-ZINE
 authors:
-  - name: Thomas
-    surname: Gauffroy-Naudin
-    orcid: 0009-0003-5309-8515
-    roles:
-      - transcriber
-      - project-manager
-      - digitization
-institutions: []
+- name: Thomas
+  orcid: 0009-0003-5309-8515
+  roles:
+  - transcriber
+  - project-manager
+  - digitization
+  surname: Gauffroy-Naudin
+automatically-aligned: false
+characters:
+  members:
+  - e
+  - a
+  - s
+  - n
+  - r
+  - i
+  - t
+  - u
+  - o
+  - l
+  - d
+  - c
+  - m
+  - p
+  - .
+  - ','
+  - ́
+  - h
+  - v
+  - b
+  - g
+  - q
+  - ’
+  - f
+  - E
+  - ̀
+  - A
+  - L
+  - C
+  - S
+  - '-'
+  - '2'
+  - '1'
+  - R
+  - M
+  - y
+  - z
+  - B
+  - T
+  - (
+  - )
+  - '0'
+  - ':'
+  - P
+  - I
+  - N
+  - D
+  - J
+  - O
+  - x
+  - F
+  - '3'
+  - ¬
+  - j
+  - G
+  - '5'
+  - U
+  - H
+  - k
+  - ̂
+  - '4'
+  - '9'
+  - '6'
+  - '8'
+  - '7'
+  - »
+  - V
+  - w
+  - W
+  - ;
+  - K
+  - «
+  - Q
+  - "'"
+  - Z
+  - '='
+  - /
+  - —
+  - •
+  - Y
+  - ̧
+  - °
+  - '!'
+  - X
+  - '?'
+  - '"'
+  - œ
+  - “
+  -  
+  - '*'
+  - ̈
+  - ·
+  - '&'
+  - +
+  - '%'
+  - '|'
+  - –
+  - ☙
+  - ¡
+  - ★
+  - ']'
+  - Œ
+  - '~'
+  - ¿
+  - †
+  - ᑕ
+  - æ
+  mode: NFD
+citation-file-link: >-
+  https://github.com/truckthomas/FONDUE-JAZZHOT-20TH-PRINT-ZINE/blob/main/citation.cff
 description: >-
   This repository is a work in progress for Thomas Gauffroy-Naudin’s DH
   certificate project, supervised by Simon Gabay at the University of Geneva.
@@ -19,25 +128,34 @@ description: >-
   20th-century print periodicals, specifically using data from the French jazz
   magazine JAZZ HOT from 1966 to 1980. The sources primarily focus on the news
   and program columns of these magazines.
-language:
-  - fra
-production-software: eScriptorium + Kraken
-automatically-aligned: false
-script:
-  - iso: Latn
-script-type: only-typed
-time:
-  notBefore: '1966'
-  notAfter: '1980'
+format: Alto-XML
 hands:
   count: less-than-11
   precision: estimated
+institutions: []
+language:
+- fra
 license:
   name: CC-BY-SA 4.0
   url: https://creativecommons.org/licenses/by-sa/4.0/
-format: Alto-XML
+production-software: eScriptorium + Kraken
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-typed
+time:
+  notAfter: '1980'
+  notBefore: '1966'
+title: FONDUE-JAZZHOT-20TH-PRINT-ZINE
+url: https://github.com/truckthomas/FONDUE-JAZZHOT-20TH-PRINT-ZINE
 volume:
-  - metric: pages
-    count: 62
-citation-file-link: >-
-  https://github.com/truckthomas/FONDUE-JAZZHOT-20TH-PRINT-ZINE/blob/main/citation.cff
+- count: 358035
+  metric: characters
+- count: 62
+  metric: files
+- count: 9473
+  metric: lines
+- count: 62
+  metric: pages
+- count: 335
+  metric: regions
