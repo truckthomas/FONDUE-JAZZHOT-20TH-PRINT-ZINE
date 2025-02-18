@@ -3,15 +3,15 @@
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-This repository is a work in progress for Thomas Gauffroy-Naudin's DH certifacte project directed by Simon gabay at the University of Geneva.
- 
-This repository currently contains a sample corpus to train a OCR model for transcriptions of 20th century print periodicals. Spefically data from french jazz periodical "JAZZ HOT" from 1966 through 1980.
+This repository is a work in progress for Thomas Gauffroy-Naudin's DH certificate project, supervised by Simon Gabay at the University of Geneva.
 
-Sources come from Thomas Gauffroy-Naudin personnal archive of jazz periodacls.
+It currently contains a sample corpus for training an OCR model to transcribe 20th-century print periodicals, specifically using data from the French jazz magazine JAZZ HOT from 1966 to 1980.
+
+The sources come from Thomas Gauffroy-Naudin's personal archive of jazz periodicals.
 
 Description:
-- Detailed List of texts down below
-- "data" folder contains to xml data to train the model along with the png pages attached to them
+A detailed list of texts is provided below.
+The "data" folder contains XML files for training the model, along with the corresponding PNG page images.
 
 #### "CORPUS_TRAINING" folder
 
