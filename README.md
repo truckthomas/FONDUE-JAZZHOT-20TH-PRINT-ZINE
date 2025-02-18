@@ -40,7 +40,7 @@ Description:
 
 ## How to cite
 
-Cf. [`htr-united.yml`]() file.
+Cf. [`htr-united.yml`](https://github.com/truckthomas/FONDUE-JAZZHOT-20TH-PRINT-ZINE/blob/main/htr-united.yml) file.
 
 
 ## Licences
