@@ -1,0 +1,43 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: FONDUE-JAZZHOT-20TH-PRINT-ZINE
+url: https://github.com/truckthomas/FONDUE-JAZZHOT-20TH-PRINT-ZINE
+authors:
+  - name: Thomas
+    surname: Gauffroy-Naudin
+    orcid: 0009-0003-5309-8515
+    roles:
+      - transcriber
+      - project-manager
+      - digitization
+institutions: []
+description: >-
+  This repository is a work in progress for Thomas Gauffroy-Naudin’s DH
+  certificate project, supervised by Simon Gabay at the University of Geneva.
+
+
+  It currently contains a sample corpus for training an OCR model to transcribe
+  20th-century print periodicals, specifically using data from the French jazz
+  magazine JAZZ HOT from 1966 to 1980. The sources primarily focus on the news
+  and program columns of these magazines.
+language:
+  - fra
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-typed
+time:
+  notBefore: '1966'
+  notAfter: '1980'
+hands:
+  count: less-than-11
+  precision: estimated
+license:
+  name: CC-BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+format: Alto-XML
+volume:
+  - metric: pages
+    count: 62
+citation-file-link: >-
+  https://github.com/truckthomas/FONDUE-JAZZHOT-20TH-PRINT-ZINE/blob/main/citation.cff
