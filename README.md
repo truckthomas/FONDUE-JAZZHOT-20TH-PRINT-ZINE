@@ -45,7 +45,7 @@ Cf. [`htr-united.yml`]() file.
 
 ## Licences
  
-Images of are personnal scan of sources from Thomas Gauffroy-Naudin's archive.
+Images of are personnal scans of sources from Thomas Gauffroy-Naudin's archive.
 Transcription is CC-BY-NC. 
 
 <a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cc_by-nc_icon.svg" /></a><br /> 
