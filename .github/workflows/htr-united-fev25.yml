@@ -20,7 +20,7 @@ jobs:
           pip install htruc
       - name: Run HTRUC
         run: |
-          htruc test htr-united-fev25.yml
+          htruc test htr-united.yml
   HTR_United_Metadata_Generator:
     runs-on: ubuntu-latest
     env:
@@ -37,7 +37,7 @@ jobs:
           pip install htr-united-metadata-generator htruc anybadge
       - name: Run Report
         run: |
-          humGenerator --chars -n NFD --parse alto --group data/**/*. xml --github-envs --to-json updated_metrics.json
+          humGenerator --chars -n NFD --parse alto --group data/CORPUS_TRAINING/**/*. xml --github-envs --to-json updated_metrics.json
           cat envs.txt >> $GITHUB_ENV
       - name: Get HTR United Badge Template
         if: github.ref == 'refs/heads/main'
@@ -56,7 +56,7 @@ jobs:
           anybadge --value=${{ env.HTRUNITED_FILES }} --file=badges/files.svg --label="XML Files" --color=#007ec6 --overwrite --template=${{ steps.get.outputs.file }}
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add htr-united-fev25.yml ./badges/
+          git add htr-united.yml ./badges/
           git commit -m "[Automatic] Update the Catalog & the Badges" || echo "Nothing to commit"
           git push || echo "Nothing to push"
   ChocoMufin:
@@ -73,7 +73,7 @@ jobs:
           pip install chocomufin
       - name: Run ChocoMufin
         run: |
-          chocomufin generate table.csv data/**/*. xml
+          chocomufin generate table.csv data/CORPUS_TRAINING/**/*. xml
           cat table.csv
   HTRVX:
     runs-on: ubuntu-latest
@@ -89,4 +89,4 @@ jobs:
           pip install htrvx
       - name: Run HTRVX
         run: |
-          htrvx --verbose --group --format alto --check-empty --segmonto --xsd data/**/*. xml
+          htrvx --verbose --group --format alto --check-empty --xsd data/CORPUS_TRAINING/**/*. xml
