@@ -33,9 +33,9 @@ characters:
   - q
   - ’
   - f
+  - A
   - E
   - ̀
-  - A
   - L
   - C
   - S
@@ -149,13 +149,13 @@ time:
 title: FONDUE-JAZZHOT-20TH-PRINT-ZINE
 url: https://github.com/truckthomas/FONDUE-JAZZHOT-20TH-PRINT-ZINE
 volume:
-- count: 358035
+- count: 358270
   metric: characters
 - count: 62
   metric: files
-- count: 9473
+- count: 9470
   metric: lines
 - count: 62
   metric: pages
-- count: 335
+- count: 376
   metric: regions
