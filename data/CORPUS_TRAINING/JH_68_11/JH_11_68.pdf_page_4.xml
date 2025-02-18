@@ -10,7 +10,7 @@
     </sourceImageInformation>
   </Description>
   <Tags>
-    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1046" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1046" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT2699" LABEL="Advertisement Zone" DESCRIPTION="block type Advertisement Zone"/>
     <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT497" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
@@ -1806,40 +1806,6 @@
                     WC="0.9945954819520314"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="917"
-                   VPOS="1204"
-                   WIDTH="733"
-                   HEIGHT="1812"
-                   ID="eSc_textblock_56c30f57"
-                   >
-          <Shape><Polygon POINTS="917 1204 917 3016 1650 3016 1650 1204"/></Shape>
-          <TextLine ID="eSc_line_4205b1a2"
-                    TAGREFS="LT497"
-                    BASELINE="939 2767 1619 2762" 
-                    HPOS="939"
-                    VPOS="2762"
-                    WIDTH="680"
-                    HEIGHT="5">
-	    <String CONTENT=""
-                    HPOS="939"
-                    VPOS="2762"
-                    WIDTH="680"
-                    HEIGHT="5"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_dd439e74"
-                    TAGREFS="LT497"
-                    BASELINE="942 2798 1484 2796" 
-                    HPOS="942"
-                    VPOS="2796"
-                    WIDTH="542"
-                    HEIGHT="2">
-	    <String CONTENT=""
-                    HPOS="942"
-                    VPOS="2796"
-                    WIDTH="542"
-                    HEIGHT="2"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="1679"
                    VPOS="350"
                    WIDTH="773"
@@ -2903,6 +2869,42 @@
                     WIDTH="336"
                     HEIGHT="67"
                     WC="0.9607728958129883"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="917"
+                   VPOS="1204"
+                   WIDTH="733"
+                   HEIGHT="1812"
+                   ID="eSc_textblock_56c30f57"
+                   TAGREFS="BT1046">
+          <Shape><Polygon POINTS="917 1204 917 3016 1650 3016 1650 1204"/></Shape>
+          <TextLine ID="eSc_line_2066416f"
+                    TAGREFS="LT497"
+                    BASELINE="939 2798 1479 2795" 
+                    HPOS="935"
+                    VPOS="2719"
+                    WIDTH="543"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="938 2796 938 2824 1474 2821 1478 2793 1467 2719 935 2723 938 2796"/></Shape>
+	    <String CONTENT="FIDANZA, 37 rue Saint-Antoine, Paris."
+                    HPOS="935"
+                    VPOS="2719"
+                    WIDTH="543"
+                    HEIGHT="105"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_86a93468"
+                    TAGREFS="LT497"
+                    BASELINE="942 2763 1512 2762 1618 2760" 
+                    HPOS="935"
+                    VPOS="2709"
+                    WIDTH="679"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="938 2786 1611 2782 1614 2758 1604 2709 935 2712 938 2761"/></Shape>
+	    <String CONTENT="A vendre guitare Gibson ES 175 D neuve 2500 F."
+                    HPOS="935"
+                    VPOS="2709"
+                    WIDTH="679"
+                    HEIGHT="77"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="158"
