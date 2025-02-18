@@ -46,9 +46,9 @@ Cf. [`htr-united.yml`](https://github.com/truckthomas/FONDUE-JAZZHOT-20TH-PRINT-
 ## Licences
  
 Images of are personnal scans of sources from Thomas Gauffroy-Naudin's archive.
-Transcription is CC-BY-NC. 
+Transcriptions are under CC BY-NC 4.0 license. 
 
-<a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cc_by-nc_icon.svg" /></a><br /> 
+<a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://en.wikipedia.org/wiki/Creative_Commons_NonCommercial_license#/media/File:Cc_by-nc_icon.svg" /></a><br /> 
 
 
 
