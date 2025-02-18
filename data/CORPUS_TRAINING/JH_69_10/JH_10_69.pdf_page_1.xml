@@ -52,7 +52,7 @@
                     WIDTH="963"
                     HEIGHT="50">
             <Shape><Polygon POINTS="193 631 193 648 1152 641 1154 623 1148 598 191 600 193 631"/></Shape>
-	    <String CONTENT="FRANCE MUSIQUE : 18h 30-1oh - Connaître le Jazz -"
+	    <String CONTENT="FRANCE MUSIQUE : 18h 30-10h - Connaître le Jazz -"
                     HPOS="191"
                     VPOS="598"
                     WIDTH="963"
@@ -67,7 +67,7 @@
                     WIDTH="1078"
                     HEIGHT="62">
             <Shape><Polygon POINTS="154 664 154 678 360 687 362 687 364 687 386 678 387 678 538 686 540 686 596 676 600 676 610 676 797 684 799 684 801 684 803 684 816 674 818 674 834 674 1011 682 1013 682 1230 670 1230 654 1224 625 152 637 154 664"/></Shape>
-	    <String CONTENT="voiir détail - tous les jours sauf samedi et dimanche -"
+	    <String CONTENT="voir détail - tous les jours sauf samedi et dimanche -"
                     HPOS="152"
                     VPOS="625"
                     WIDTH="1078"
@@ -127,7 +127,7 @@
                     WIDTH="523"
                     HEIGHT="43">
             <Shape><Polygon POINTS="157 828 157 845 680 841 680 828 680 802 157 802 157 828"/></Shape>
-	    <String CONTENT="ques du Jazz par L. Mal son"
+	    <String CONTENT="ques du Jazz par L. Malson"
                     HPOS="157"
                     VPOS="802"
                     WIDTH="523"
@@ -247,7 +247,7 @@
                     WIDTH="1067"
                     HEIGHT="65">
             <Shape><Polygon POINTS="1140 1040 1111 1040 1082 1040 1052 1040 1023 1040 994 1040 965 1040 935 1040 906 1040 877 1040 848 1040 818 1040 789 1040 760 1040 731 1040 701 1040 672 1043 643 1043 614 1043 584 1043 555 1043 526 1043 497 1043 467 1043 438 1043 409 1043 380 1043 350 1043 321 1043 292 1043 263 1043 233 1043 204 1043 195 1031 146 1031 149 1072 149 1096 1213 1096 1213 1069 1207 1034 1140 1031 1140 1040"/></Shape>
-	    <String CONTENT="Rendez-vous avec le jazz en stéréopnonie par A. Franci"
+	    <String CONTENT="Rendez-vous avec le jazz en stéréopnonie par A. Francis"
                     HPOS="146"
                     VPOS="1031"
                     WIDTH="1067"
@@ -870,7 +870,7 @@
                     WIDTH="1017"
                     HEIGHT="57">
             <Shape><Polygon POINTS="2304 1648 2285 1646 2265 1644 2255 1642 1310 1642 1310 1674 1308 1687 1817 1699 1819 1699 2324 1689 2325 1677 2322 1648 2304 1648"/></Shape>
-	    <String CONTENT="CIGALE, 124 bd Rochechouart (18°) MoN-59-29 - Con¬"
+	    <String CONTENT="ORCHESTRES NEW ORLEANS différents"
                     HPOS="1308"
                     VPOS="1642"
                     WIDTH="1017"
@@ -1478,6 +1478,14 @@
                     HEIGHT="55"
                     WC="0.9980805483129289"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2317"
+                   VPOS="3359"
+                   WIDTH="62"
+                   HEIGHT="56"
+                   ID="eSc_textblock_0b4ba982"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2379 3415 2379 3359 2317 3359 2317 3415"/></Shape>
         </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_419ca386"

@@ -25,10 +25,10 @@
         <TextBlock HPOS="73"
                    VPOS="122"
                    WIDTH="1161"
-                   HEIGHT="3243"
+                   HEIGHT="2469"
                    ID="eSc_textblock_7e6aa82e"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="73 122 79 3365 1234 3365 1234 122"/></Shape>
+          <Shape><Polygon POINTS="1234 122 1234 2591 78 2591 73 122"/></Shape>
           <TextLine ID="eSc_line_effc5491"
                     TAGREFS="LT497"
                     BASELINE="115 157 1191 148" 
@@ -375,31 +375,31 @@
           </TextLine>
           <TextLine ID="eSc_line_8a81d491"
                     TAGREFS="LT497"
-                    BASELINE="146 914 1163 908" 
-                    HPOS="144"
-                    VPOS="878"
-                    WIDTH="1019"
-                    HEIGHT="88">
-            <Shape><Polygon POINTS="1126 906 1109 908 1095 921 1076 921 1056 921 1037 921 1017 921 998 921 978 921 959 921 939 921 920 921 900 921 881 921 861 921 842 921 822 921 803 921 783 921 764 921 744 921 736 900 711 882 705 878 703 878 701 878 699 878 635 882 520 890 144 884 146 914 146 943 218 943 226 945 269 962 271 962 272 962 274 962 321 951 335 962 335 964 337 964 339 964 341 966 464 966 464 964 465 964 467 964 467 962 483 949 485 947 495 951 536 962 538 962 540 964 666 964 666 962 668 962 692 953 711 947 733 954 752 960 754 960 756 960 797 956 799 956 801 956 801 954 816 941 910 941 941 958 951 962 953 962 955 962 1162 960 1163 908 1162 906 1146 906"/></Shape>
+                    BASELINE="146 914 1156 903" 
+                    HPOS="140"
+                    VPOS="865"
+                    WIDTH="1015"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="637 879 140 879 143 932 1152 929 1155 900 1146 865 643 871 637 879"/></Shape>
 	    <String CONTENT="Le 15 mai : François Faure Trio ; Confluence ; Free Jazz Worshop de"
-                    HPOS="144"
-                    VPOS="878"
-                    WIDTH="1019"
-                    HEIGHT="88"></String>
+                    HPOS="140"
+                    VPOS="865"
+                    WIDTH="1015"
+                    HEIGHT="67"></String>
           </TextLine>
           <TextLine ID="eSc_line_3044cbc8"
                     TAGREFS="LT497"
-                    BASELINE="144 941 1167 908" 
+                    BASELINE="144 941 1167 935" 
                     HPOS="140"
-                    VPOS="871"
+                    VPOS="882"
                     WIDTH="1026"
-                    HEIGHT="108">
-            <Shape><Polygon POINTS="1134 903 1105 903 1087 871 707 882 696 912 140 912 143 964 260 964 260 970 426 979 541 961 698 973 734 958 891 967 915 953 924 958 927 964 1166 955 1166 906 1158 871 1149 871 1134 903"/></Shape>
-	    <String CONTENT="Lyon. Chris McGregor SOlo ; Michel Portal Unit ; William Breuker"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1134 903 1105 903 1076 903 1046 903 1017 903 988 903 959 903 930 903 900 903 871 906 842 906 813 906 783 906 754 906 725 906 696 906 666 906 637 909 608 909 579 909 549 909 520 909 491 909 462 909 432 909 403 909 374 912 345 912 315 912 286 912 257 912 228 912 198 912 169 912 140 912 143 938 143 961 1161 967 1166 932 1158 882 1143 882 1134 903"/></Shape>
+	    <String CONTENT="Lyon. Chris McGregor Solo ; Michel Portal Unit ; William Breuker"
                     HPOS="140"
-                    VPOS="871"
+                    VPOS="882"
                     WIDTH="1026"
-                    HEIGHT="108"></String>
+                    HEIGHT="85"></String>
           </TextLine>
           <TextLine ID="eSc_line_ea107d9c"
                     TAGREFS="LT497"
@@ -1253,10 +1253,10 @@
         <TextBlock HPOS="1274"
                    VPOS="111"
                    WIDTH="1156"
-                   HEIGHT="3215"
+                   HEIGHT="1750"
                    ID="eSc_textblock_3c7ac528"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="1274 111 1274 3326 2430 3326 2430 111"/></Shape>
+          <Shape><Polygon POINTS="2430 111 2430 1861 1274 1861 1274 111"/></Shape>
           <TextLine ID="eSc_line_d2b73ab6"
                     TAGREFS="LT497"
                     BASELINE="1702 181 1967 177" 
@@ -2236,6 +2236,30 @@
                     HEIGHT="66"
                     WC="0.9848438813572838"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1274"
+                   VPOS="1895"
+                   WIDTH="1156"
+                   HEIGHT="1431"
+                   ID="eSc_textblock_cf5cf169"
+                   TAGREFS="BT1046">
+          <Shape><Polygon POINTS="2430 3326 1274 3326 1274 1895 2430 1895"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="78"
+                   VPOS="2647"
+                   WIDTH="1156"
+                   HEIGHT="617"
+                   ID="eSc_textblock_bfd82d72"
+                   TAGREFS="BT1046">
+          <Shape><Polygon POINTS="78 2647 1234 2647 1234 3264 79 3264"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="90"
+                   VPOS="3286"
+                   WIDTH="118"
+                   HEIGHT="45"
+                   ID="eSc_textblock_984d594e"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="208 3331 208 3286 90 3286 90 3331"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

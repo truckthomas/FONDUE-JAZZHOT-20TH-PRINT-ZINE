@@ -1323,10 +1323,10 @@
         <TextBlock HPOS="1234"
                    VPOS="156"
                    WIDTH="1179"
-                   HEIGHT="3226"
+                   HEIGHT="3153"
                    ID="eSc_textblock_6b79d656"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="1234 156 1234 3382 2413 3382 2413 156"/></Shape>
+          <Shape><Polygon POINTS="1234 156 1256 3309 2385 3309 2413 156"/></Shape>
           <TextLine ID="eSc_line_81c7723a"
                     TAGREFS="LT497"
                     BASELINE="1290 280 1830 276" 
@@ -2115,12 +2115,11 @@
                     WIDTH="1081"
                     HEIGHT="49">
             <Shape><Polygon POINTS="1282 2441 1282 2457 1399 2457 1401 2457 1413 2467 1415 2467 1417 2467 1419 2467 1421 2467 1442 2457 1446 2457 1452 2457 1495 2467 1497 2467 1551 2459 1569 2457 2361 2467 2363 2441 2363 2418 1282 2418 1282 2441"/></Shape>
-	    <String CONTENT="Un concert au Bowdin College est en outre prévu pour avril."
+	    <String CONTENT="donna un concert en compagnie de Leo Smith le 9 décembre."
                     HPOS="1282"
                     VPOS="2418"
                     WIDTH="1081"
-                    HEIGHT="49"
-                    WC="0.9990036518409334"></String>
+                    HEIGHT="49"></String>
           </TextLine>
           <TextLine ID="eSc_line_224dd2b4"
                     TAGREFS="LT497"
@@ -2130,12 +2129,11 @@
                     WIDTH="1081"
                     HEIGHT="59">
             <Shape><Polygon POINTS="1280 2478 1280 2512 2361 2512 2361 2478 2361 2453 1280 2453 1280 2478"/></Shape>
-	    <String CONTENT="23"
+	    <String CONTENT="Un concert au Bowdin College est en outre prévu pour avril."
                     HPOS="1280"
                     VPOS="2453"
                     WIDTH="1081"
-                    HEIGHT="59"
-                    WC="0.9880927274624507"></String>
+                    HEIGHT="59"></String>
           </TextLine>
           <TextLine ID="eSc_line_dcc36829"
                     TAGREFS="LT497"
@@ -2145,13 +2143,20 @@
                     WIDTH="59"
                     HEIGHT="50">
             <Shape><Polygon POINTS="2343 3317 2333 3315 2322 3315 2304 3340 2304 3342 2304 3365 2363 3365 2363 3342 2363 3315 2343 3315 2343 3317"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="23"
                     HPOS="2304"
                     VPOS="3315"
                     WIDTH="59"
-                    HEIGHT="50"
-                    WC="0.9991898536682129"></String>
+                    HEIGHT="50"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2284"
+                   VPOS="3314"
+                   WIDTH="101"
+                   HEIGHT="73"
+                   ID="eSc_textblock_b92b9b22"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2385 3387 2385 3314 2284 3314 2284 3387"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

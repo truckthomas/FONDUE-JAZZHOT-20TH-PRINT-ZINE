@@ -1435,10 +1435,10 @@
         <TextBlock HPOS="1274"
                    VPOS="150"
                    WIDTH="1150"
-                   HEIGHT="3232"
+                   HEIGHT="3165"
                    ID="eSc_textblock_e55fa075"
-                   TAGREFS="BT12">
-          <Shape><Polygon POINTS="1274 150 1274 3382 2424 3382 2424 150"/></Shape>
+                   TAGREFS="BT7">
+          <Shape><Polygon POINTS="1274 150 1291 3315 2402 3298 2424 150"/></Shape>
           <TextLine ID="eSc_line_f86dee78"
                     TAGREFS="LT497"
                     BASELINE="1700 381 1955 380" 
@@ -1462,12 +1462,11 @@
                     WIDTH="313"
                     HEIGHT="59">
             <Shape><Polygon POINTS="1681 423 1678 441 1985 447 1991 429 1991 391 1681 388 1681 423"/></Shape>
-	    <String CONTENT="WEATHER KINC"
+	    <String CONTENT="WEATHER KING"
                     HPOS="1678"
                     VPOS="388"
                     WIDTH="313"
-                    HEIGHT="59"
-                    WC="0.9996257374684016"></String>
+                    HEIGHT="59"></String>
           </TextLine>
           <TextLine ID="eSc_line_4ac3fa68"
                     TAGREFS="LT497"
@@ -1642,12 +1641,11 @@
                     WIDTH="1012"
                     HEIGHT="88">
             <Shape><Polygon POINTS="1333 2236 1333 2265 2342 2256 2342 2224 2333 2177 1330 2183 1333 2236"/></Shape>
-	    <String CONTENT="ufilise aussi les célèbres peaux REMO:&quot;DIPIOMAT"
+	    <String CONTENT="ufilise aussi les célèbres peaux REMO:&quot;DIPLOMAT"
                     HPOS="1330"
                     VPOS="2177"
                     WIDTH="1012"
-                    HEIGHT="88"
-                    WC="0.9949870936724604"></String>
+                    HEIGHT="88"></String>
           </TextLine>
           <TextLine ID="eSc_line_b71c1550"
                     TAGREFS="LT497"
@@ -1732,12 +1730,11 @@
                     WIDTH="454"
                     HEIGHT="90">
             <Shape><Polygon POINTS="1330 2727 1330 2750 1775 2759 1781 2721 1772 2669 1327 2683 1330 2727"/></Shape>
-	    <String CONTENT="pads: RIÓ, RI8, RIIO."
+	    <String CONTENT="pads: RT6, RT8, RT1O."
                     HPOS="1327"
                     VPOS="2669"
                     WIDTH="454"
-                    HEIGHT="90"
-                    WC="0.9952051341533661"></String>
+                    HEIGHT="90"></String>
           </TextLine>
           <TextLine ID="eSc_line_625f2320"
                     TAGREFS="LT497"
@@ -1747,12 +1744,11 @@
                     WIDTH="658"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1707 2967 1707 2990 2360 2981 2363 2961 2354 2911 1705 2917 1707 2967"/></Shape>
-	    <String CONTENT="Importateur exclusif! REMO"
+	    <String CONTENT="Importateur exclusif: REMO"
                     HPOS="1705"
                     VPOS="2911"
                     WIDTH="658"
-                    HEIGHT="79"
-                    WC="0.9632369566422242"></String>
+                    HEIGHT="79"></String>
           </TextLine>
           <TextLine ID="eSc_line_e09fe459"
                     TAGREFS="LT497"
@@ -1814,6 +1810,14 @@
                     HEIGHT="64"
                     WC="0.9998401999473572"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2325"
+                   VPOS="3314"
+                   WIDTH="81"
+                   HEIGHT="56"
+                   ID="eSc_textblock_732b898c"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2406 3370 2406 3314 2325 3314 2325 3370"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

@@ -2749,17 +2749,25 @@
           <TextLine ID="eSc_line_92e8c972"
                     TAGREFS="LT497"
                     BASELINE="1723 3005 2437 3009" 
-                    HPOS="1721"
+                    HPOS="1723"
                     VPOS="2974"
-                    WIDTH="716"
-                    HEIGHT="231">
-            <Shape><Polygon POINTS="1723 3005 1721 3205 2435 3202 2437 3009 2437 2981 1723 2974 1723 3005"/></Shape>
-	    <String CONTENT=""
-                    HPOS="1721"
+                    WIDTH="714"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1729 3033 2420 3038 2437 3009 2437 2981 1723 2974 1723 3005"/></Shape>
+	    <String CONTENT="récemment chroniqué dans Jazz-Hot; les"
+                    HPOS="1723"
                     VPOS="2974"
-                    WIDTH="716"
-                    HEIGHT="231"></String>
+                    WIDTH="714"
+                    HEIGHT="64"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="185"
+                   VPOS="2366"
+                   WIDTH="685"
+                   HEIGHT="629"
+                   ID="eSc_textblock_dac3996a"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="185 2366 185 2989 870 2995 870 2366"/></Shape>
         </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_543fc7ab"

@@ -1560,6 +1560,38 @@
                     HEIGHT="55"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="135"
+                   VPOS="1553"
+                   WIDTH="1094"
+                   HEIGHT="690"
+                   ID="eSc_textblock_8b20baa0"
+                   TAGREFS="BT7">
+          <Shape><Polygon POINTS="135 1553 135 2243 1229 2243 1229 1553"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1319"
+                   VPOS="1541"
+                   WIDTH="1088"
+                   HEIGHT="691"
+                   ID="eSc_textblock_fb45ebce"
+                   TAGREFS="BT7">
+          <Shape><Polygon POINTS="1319 1541 1319 2232 2407 2232 2407 1541 1936 1541"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="112"
+                   VPOS="2293"
+                   WIDTH="2273"
+                   HEIGHT="685"
+                   ID="eSc_textblock_2d8cff67"
+                   TAGREFS="BT7">
+          <Shape><Polygon POINTS="112 2293 112 2978 2385 2978 2385 2293"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="73"
+                   VPOS="3000"
+                   WIDTH="2340"
+                   HEIGHT="79"
+                   ID="eSc_textblock_fdea7a70"
+                   >
+          <Shape><Polygon POINTS="73 3000 73 3079 2413 3079 2413 3000"/></Shape>
+        </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_f9e0e84b"
                     TAGREFS="LT497"
@@ -1613,12 +1645,11 @@
                     WIDTH="306"
                     HEIGHT="86">
             <Shape><Polygon POINTS="516 1744 516 1769 620 1757 818 1763 820 1738 816 1683 752 1683 750 1683 748 1683 746 1683 746 1685 744 1687 733 1699 645 1699 633 1693 621 1685 620 1685 618 1685 616 1685 614 1685 596 1695 584 1701 514 1701 516 1744"/></Shape>
-	    <String CONTENT="(MOr ALAS)"
+	    <String CONTENT="(Mon ALAS)"
                     HPOS="514"
                     VPOS="1683"
                     WIDTH="306"
-                    HEIGHT="86"
-                    WC="0.9838842988014221"></String>
+                    HEIGHT="86"></String>
           </TextLine>
           <TextLine ID="eSc_line_f48cf9be"
                     TAGREFS="LT497"
@@ -1893,16 +1924,16 @@
           <TextLine ID="eSc_line_90d57eac"
                     TAGREFS="LT497"
                     BASELINE="132 3053 803 3057" 
-                    HPOS="130"
+                    HPOS="132"
                     VPOS="3016"
-                    WIDTH="673"
-                    HEIGHT="189">
-            <Shape><Polygon POINTS="795 3016 629 3018 627 3018 606 3028 506 3020 481 3018 479 3018 477 3018 469 3020 450 3026 444 3020 438 3016 425 3016 423 3016 417 3020 409 3026 397 3022 384 3016 366 3016 364 3016 335 3022 311 3026 148 3026 132 3046 132 3053 130 3202 799 3205 803 3057 799 3028 795 3016"/></Shape>
+                    WIDTH="671"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="629 3018 627 3018 606 3028 506 3020 481 3018 479 3018 477 3018 469 3020 450 3026 444 3020 438 3016 425 3016 423 3016 417 3020 409 3026 397 3022 384 3016 366 3016 364 3016 335 3022 311 3026 148 3026 132 3046 132 3053 133 3093 799 3096 803 3057 799 3028 795 3016"/></Shape>
 	    <String CONTENT="e eeetxemecee-"
-                    HPOS="130"
+                    HPOS="132"
                     VPOS="3016"
-                    WIDTH="673"
-                    HEIGHT="189"
+                    WIDTH="671"
+                    HEIGHT="80"
                     WC="0.7870402761868068"></String>
           </TextLine>
           <TextLine ID="eSc_line_d96ce6c0"
@@ -1911,13 +1942,13 @@
                     HPOS="1259"
                     VPOS="3028"
                     WIDTH="1139"
-                    HEIGHT="179">
-            <Shape><Polygon POINTS="2370 3050 2351 3044 2331 3038 2312 3032 2302 3028 1259 3030 1261 3055 1261 3203 2396 3207 2398 3051 2392 3028 2370 3028 2370 3050"/></Shape>
-	    <String CONTENT=""
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2351 3044 2331 3038 2312 3032 2302 3028 1259 3030 1261 3055 1265 3094 2381 3090 2398 3051 2392 3028 2370 3028 2370 3050"/></Shape>
+	    <String CONTENT="Dépôt légal n 27 - Editions JAZZ HIT - Le Directeur de la publication: Robert BAUDELET"
                     HPOS="1259"
                     VPOS="3028"
                     WIDTH="1139"
-                    HEIGHT="179"></String>
+                    HEIGHT="66"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

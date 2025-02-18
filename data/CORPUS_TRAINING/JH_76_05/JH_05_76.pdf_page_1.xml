@@ -25,10 +25,10 @@
         <TextBlock HPOS="34"
                    VPOS="139"
                    WIDTH="1189"
-                   HEIGHT="3187"
+                   HEIGHT="1576"
                    ID="eSc_textblock_2e3186dd"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="34 139 34 3326 1223 3326 1223 139"/></Shape>
+          <Shape><Polygon POINTS="1223 139 1223 1715 34 1715 34 139"/></Shape>
           <TextLine ID="eSc_line_ab25f31e"
                     TAGREFS="LT497"
                     BASELINE="113 448 1148 440" 
@@ -67,12 +67,11 @@
                     WIDTH="712"
                     HEIGHT="86">
             <Shape><Polygon POINTS="280 572 280 596 350 586 526 596 569 598 571 598 573 598 575 598 577 596 590 586 620 596 621 596 623 596 625 596 627 596 629 596 629 594 641 584 709 596 727 598 729 598 990 594 990 567 988 524 974 516 972 516 970 516 968 516 967 516 965 516 951 526 945 532 883 532 875 528 834 512 832 512 830 512 828 512 826 512 826 514 811 528 809 530 807 528 760 514 758 514 756 514 651 532 645 532 643 532 625 516 623 516 621 516 514 514 512 514 278 535 280 572"/></Shape>
-	    <String CONTENT="par GEORGETIE VEII (piano)"
+	    <String CONTENT="par GEORGETIE VEIT (piano)"
                     HPOS="278"
                     VPOS="512"
                     WIDTH="712"
-                    HEIGHT="86"
-                    WC="0.9805021217236152"></String>
+                    HEIGHT="86"></String>
           </TextLine>
           <TextLine ID="eSc_line_49dfab32"
                     TAGREFS="LT497"
@@ -411,7 +410,7 @@
                    HEIGHT="2547"
                    ID="eSc_textblock_cdfb637e"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="1251 133 1251 2680 2396 2680 2396 133"/></Shape>
+          <Shape><Polygon POINTS="2396 133 2396 2680 1251 2680 1251 1743 1251 1715 1251 133"/></Shape>
           <TextLine ID="eSc_line_499a0ef1"
                     TAGREFS="LT497"
                     BASELINE="1608 214 2019 218" 
@@ -1166,7 +1165,7 @@
                     WIDTH="354"
                     HEIGHT="94">
             <Shape><Polygon POINTS="1450 1873 1421 1870 1421 1932 1421 1961 1772 1964 1775 1932 1775 1870 1509 1870 1479 1873"/></Shape>
-	    <String CONTENT="lette de Gérard Coppéré."
+	    <String CONTENT="tette de Gérard Coppéré."
                     HPOS="1421"
                     VPOS="1870"
                     WIDTH="354"
@@ -1451,6 +1450,30 @@
                     HEIGHT="45"
                     WC="0.9800005004956172"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1285"
+                   VPOS="2725"
+                   WIDTH="1116"
+                   HEIGHT="578"
+                   ID="eSc_textblock_978030f7"
+                   TAGREFS="BT7">
+          <Shape><Polygon POINTS="2401 3303 2401 2725 1285 2725 1285 3303"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="34"
+                   VPOS="1743"
+                   WIDTH="1189"
+                   HEIGHT="1548"
+                   ID="eSc_textblock_7efd3ea5"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="1219 3285 67 3291 34 1743 1223 1743"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="96"
+                   VPOS="3314"
+                   WIDTH="101"
+                   HEIGHT="41"
+                   ID="eSc_textblock_a79ddc55"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="197 3355 197 3314 96 3314 96 3355"/></Shape>
         </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_833e3cd7"

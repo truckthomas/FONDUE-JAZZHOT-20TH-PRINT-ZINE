@@ -22,13 +22,13 @@
                   VPOS="0"
                   WIDTH="2480"
                   HEIGHT="3508">
-        <TextBlock HPOS="50"
+        <TextBlock HPOS="93"
                    VPOS="77"
-                   WIDTH="797"
-                   HEIGHT="3007"
+                   WIDTH="754"
+                   HEIGHT="2929"
                    ID="eSc_textblock_ba38d491"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="123 77 50 3084 836 3051 847 77"/></Shape>
+          <Shape><Polygon POINTS="123 77 93 3006 822 3005 847 77"/></Shape>
           <TextLine ID="eSc_line_a876715a"
                     TAGREFS="LT497"
                     BASELINE="132 107 848 111" 
@@ -1024,14 +1024,14 @@
                     BASELINE="99 3038 155 3032" 
                     HPOS="95"
                     VPOS="2997"
-                    WIDTH="76"
-                    HEIGHT="214">
-            <Shape><Polygon POINTS="99 3038 116 3211 171 3198 155 3032 150 2997 95 2999 99 3038"/></Shape>
-	    <String CONTENT=""
+                    WIDTH="60"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="105 3079 153 3070 155 3032 150 2997 95 2999 99 3038"/></Shape>
+	    <String CONTENT="10"
                     HPOS="95"
                     VPOS="2997"
-                    WIDTH="76"
-                    HEIGHT="214"></String>
+                    WIDTH="60"
+                    HEIGHT="82"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="881"
@@ -2814,20 +2814,28 @@
                     WC="0.9938921474892161"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="66"
+                   VPOS="3007"
+                   WIDTH="103"
+                   HEIGHT="52"
+                   ID="eSc_textblock_1ab732dd"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="169 3059 169 3007 66 3007 66 3059"/></Shape>
+        </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_86768a55"
                     TAGREFS="LT497"
                     BASELINE="1906 2991 2384 2995" 
-                    HPOS="1902"
+                    HPOS="1906"
                     VPOS="2964"
-                    WIDTH="482"
-                    HEIGHT="241">
-            <Shape><Polygon POINTS="2374 2977 2357 2964 1920 2964 1906 2989 1906 2991 1902 3198 2380 3205 2384 2995 2380 2987 2374 2977"/></Shape>
-	    <String CONTENT=""
-                    HPOS="1902"
+                    WIDTH="478"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="2357 2964 1920 2964 1906 2989 1906 2991 1910 3029 2375 3026 2384 2995 2380 2987 2374 2977"/></Shape>
+	    <String CONTENT="(suite du jazz actualités page 31)"
+                    HPOS="1906"
                     VPOS="2964"
-                    WIDTH="482"
-                    HEIGHT="241"></String>
+                    WIDTH="478"
+                    HEIGHT="65"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

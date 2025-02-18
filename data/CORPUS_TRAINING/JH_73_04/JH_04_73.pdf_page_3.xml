@@ -27,7 +27,7 @@
                    WIDTH="1251"
                    HEIGHT="3384"
                    ID="eSc_textblock_79cfdd00"
-                   TAGREFS="BT12">
+                   TAGREFS="BT7">
           <Shape><Polygon POINTS="17 26 17 3410 1268 3410 1268 26"/></Shape>
           <TextLine ID="eSc_line_2df2a206"
                     TAGREFS="LT497"
@@ -112,12 +112,11 @@
                     WIDTH="214"
                     HEIGHT="45">
             <Shape><Polygon POINTS="892 352 892 372 1103 370 1105 350 1099 327 891 327 892 352"/></Shape>
-	    <String CONTENT="8-B King avec"
+	    <String CONTENT="3-B King avec"
                     HPOS="891"
                     VPOS="327"
                     WIDTH="214"
-                    HEIGHT="45"
-                    WC="0.9985670218100915"></String>
+                    HEIGHT="45"></String>
           </TextLine>
           <TextLine ID="eSc_line_5a3ae14c"
                     TAGREFS="LT497"
@@ -148,21 +147,6 @@
                     WIDTH="101"
                     HEIGHT="55"
                     WC="0.9901940311704364"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_d8e50ffe"
-                    TAGREFS="LT497"
-                    BASELINE="247 1095 267 1093" 
-                    HPOS="241"
-                    VPOS="1046"
-                    WIDTH="26"
-                    HEIGHT="68">
-            <Shape><Polygon POINTS="247 1095 247 1112 267 1114 267 1093 261 1046 241 1046 247 1095"/></Shape>
-	    <String CONTENT="4"
-                    HPOS="241"
-                    VPOS="1046"
-                    WIDTH="26"
-                    HEIGHT="68"
-                    WC="0.983124852180481"></String>
           </TextLine>
           <TextLine ID="eSc_line_76f5cb96"
                     TAGREFS="LT497"
@@ -337,12 +321,11 @@
                     WIDTH="292"
                     HEIGHT="45">
             <Shape><Polygon POINTS="885 1830 883 1847 1171 1849 1175 1833 1173 1804 885 1804 885 1830"/></Shape>
-	    <String CONTENT="Readers Poll! joue"
+	    <String CONTENT="Readers Poll,&quot; joue"
                     HPOS="883"
                     VPOS="1804"
                     WIDTH="292"
-                    HEIGHT="45"
-                    WC="0.9951226313908895"></String>
+                    HEIGHT="45"></String>
           </TextLine>
           <TextLine ID="eSc_line_2acf13ca"
                     TAGREFS="LT497"
@@ -352,12 +335,11 @@
                     WIDTH="290"
                     HEIGHT="49">
             <Shape><Polygon POINTS="885 1863 883 1878 1169 1882 1173 1867 1171 1841 885 1833 885 1863"/></Shape>
-	    <String CONTENT="sur saxophonc alto"
+	    <String CONTENT="sur saxophone alto"
                     HPOS="883"
                     VPOS="1833"
                     WIDTH="290"
-                    HEIGHT="49"
-                    WC="0.972371455695894"></String>
+                    HEIGHT="49"></String>
           </TextLine>
           <TextLine ID="eSc_line_b3a40b4f"
                     TAGREFS="LT497"
@@ -373,20 +355,6 @@
                     WIDTH="294"
                     HEIGHT="56"
                     WC="0.9995512068271637"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_2378d8e6"
-                    TAGREFS="LT497"
-                    BASELINE="233 1974 495 1972" 
-                    HPOS="232"
-                    VPOS="1900"
-                    WIDTH="263"
-                    HEIGHT="115">
-            <Shape><Polygon POINTS="232 1911 233 1974 233 2005 243 2013 245 2013 247 2013 249 2015 376 2015 376 2013 378 2013 380 2013 380 2011 387 2005 397 1997 493 2007 495 1972 491 1933 426 1933 419 1925 395 1906 395 1904 393 1904 391 1904 350 1900 348 1900 233 1907 232 1911"/></Shape>
-	    <String CONTENT=""
-                    HPOS="232"
-                    VPOS="1900"
-                    WIDTH="263"
-                    HEIGHT="115"></String>
           </TextLine>
           <TextLine ID="eSc_line_0ebd0512"
                     TAGREFS="LT497"
@@ -426,12 +394,11 @@
                     WIDTH="706"
                     HEIGHT="111">
             <Shape><Polygon POINTS="241 2112 947 2110 947 2093 947 2034 768 2034 756 2024 723 2001 721 2001 719 2001 635 2001 633 2001 631 2001 604 2015 573 2003 571 2003 569 2003 567 2003 538 2015 534 2017 528 2015 485 2003 483 2003 481 2003 479 2003 448 2011 436 2015 430 2011 419 2001 417 2001 415 2001 413 2001 321 2005 319 2005 317 2005 292 2024 243 2003 241 2093 241 2112"/></Shape>
-	    <String CONTENT="KCINUUSA"
+	    <String CONTENT="KING USA"
                     HPOS="241"
                     VPOS="2001"
                     WIDTH="706"
-                    HEIGHT="111"
-                    WC="0.9844603016972542"></String>
+                    HEIGHT="111"></String>
           </TextLine>
           <TextLine ID="eSc_line_2c5404ba"
                     TAGREFS="LT497"
@@ -486,12 +453,11 @@
                     WIDTH="495"
                     HEIGHT="103">
             <Shape><Polygon POINTS="247 2475 249 2504 292 2490 448 2490 736 2498 740 2469 736 2412 582 2401 581 2401 579 2401 577 2401 577 2402 563 2414 563 2416 516 2416 481 2416 426 2402 425 2402 423 2402 395 2416 267 2408 265 2408 263 2408 245 2416 247 2475"/></Shape>
-	    <String CONTENT="per fection"
+	    <String CONTENT="perfection"
                     HPOS="245"
                     VPOS="2401"
                     WIDTH="495"
-                    HEIGHT="103"
-                    WC="0.9946073022755709"></String>
+                    HEIGHT="103"></String>
           </TextLine>
           <TextLine ID="eSc_line_43e64118"
                     TAGREFS="LT497"
@@ -666,12 +632,11 @@
                     WIDTH="1088"
                     HEIGHT="70">
             <Shape><Polygon POINTS="85 3036 85 3057 1171 3051 1171 3032 1163 2995 1130 3005 935 2993 914 2993 912 2993 900 2993 777 3005 742 2993 725 2987 723 2987 721 2987 719 2987 707 2993 690 3003 462 3007 339 3007 298 2991 292 2989 290 2989 288 2989 286 2989 282 2991 249 3007 239 2997 237 2997 235 2997 233 2997 185 3003 167 2991 167 2989 165 2989 163 2989 161 2989 83 2989 85 3036"/></Shape>
-	    <String CONTENT="LING MUSICAL INSTRUMENTS USA"
+	    <String CONTENT="KING MUSICAL INSTRUMENTS USA"
                     HPOS="83"
                     VPOS="2987"
                     WIDTH="1088"
-                    HEIGHT="70"
-                    WC="0.9696507581642696"></String>
+                    HEIGHT="70"></String>
           </TextLine>
           <TextLine ID="eSc_line_09e469dc"
                     TAGREFS="LT497"

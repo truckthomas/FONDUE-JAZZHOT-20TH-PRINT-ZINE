@@ -27,8 +27,22 @@
                    WIDTH="1122"
                    HEIGHT="3193"
                    ID="eSc_textblock_c28bde79"
-                   TAGREFS="BT12">
+                   TAGREFS="BT7">
           <Shape><Polygon POINTS="45 105 45 3298 1167 3298 1167 105"/></Shape>
+          <TextLine ID="eSc_line_8cde5037"
+                    TAGREFS="LT497"
+                    BASELINE="151 459 791 459" 
+                    HPOS="149"
+                    VPOS="248"
+                    WIDTH="640"
+                    HEIGHT="284">
+            <Shape><Polygon POINTS="149 458 149 514 178 529 181 529 184 529 187 529 225 514 263 529 266 529 269 532 438 532 438 529 441 529 444 529 465 514 739 529 742 529 745 529 789 511 789 458 789 388 535 371 532 371 529 371 503 385 415 315 336 248 333 248 330 248 327 248 149 260 149 458"/></Shape>
+	    <String CONTENT="KING"
+                    HPOS="149"
+                    VPOS="248"
+                    WIDTH="640"
+                    HEIGHT="284"></String>
+          </TextLine>
           <TextLine ID="eSc_line_95e53026"
                     TAGREFS="LT497"
                     BASELINE="132 635 1144 635" 
@@ -52,12 +66,11 @@
                     WIDTH="1036"
                     HEIGHT="105">
             <Shape><Polygon POINTS="128 738 126 762 1158 763 1162 746 1160 670 988 680 955 670 949 668 947 668 945 668 943 668 935 670 904 680 891 670 879 660 877 660 875 660 873 660 871 660 842 670 832 662 832 660 830 660 828 660 688 660 686 660 684 660 660 670 647 678 637 672 621 658 620 658 618 658 616 658 614 658 612 658 594 672 584 678 543 678 538 672 522 658 520 658 518 658 417 658 415 658 413 658 372 672 350 658 348 658 347 658 345 658 343 658 341 658 323 672 319 674 128 674 128 738"/></Shape>
-	    <String CONTENT="quement fidèle de IOUI instrument"
+	    <String CONTENT="quement fidèle de TOUT instrument"
                     HPOS="126"
                     VPOS="658"
                     WIDTH="1036"
-                    HEIGHT="105"
-                    WC="0.9839663856169757"></String>
+                    HEIGHT="105"></String>
           </TextLine>
           <TextLine ID="eSc_line_94e8789e"
                     TAGREFS="LT497"
@@ -67,12 +80,11 @@
                     WIDTH="852"
                     HEIGHT="111">
             <Shape><Polygon POINTS="126 871 368 867 419 877 426 877 428 877 436 877 495 867 506 877 508 877 510 877 512 877 522 877 651 869 660 877 660 878 662 878 664 878 666 880 735 880 735 878 736 878 766 869 848 878 861 880 863 880 877 880 953 871 972 880 978 855 978 795 926 775 924 775 922 775 920 775 918 775 904 787 853 775 852 775 787 789 768 793 750 789 709 775 707 775 705 775 651 785 621 791 614 785 600 773 598 773 596 773 510 771 508 771 506 771 504 771 489 781 462 771 460 771 458 771 456 771 434 779 419 787 401 779 386 771 384 771 382 771 380 771 366 777 343 789 315 777 300 769 298 769 296 769 294 769 271 775 228 789 157 789 132 771 128 847 126 871"/></Shape>
-	    <String CONTENT="à vent, tant hois que cuivre."
+	    <String CONTENT="à vent, tant bois que cuivre."
                     HPOS="126"
                     VPOS="769"
                     WIDTH="852"
-                    HEIGHT="111"
-                    WC="0.9916742404301961"></String>
+                    HEIGHT="111"></String>
           </TextLine>
           <TextLine ID="eSc_line_23090fde"
                     TAGREFS="LT497"
@@ -97,12 +109,11 @@
                     WIDTH="712"
                     HEIGHT="52">
             <Shape><Polygon POINTS="124 1972 122 1991 832 1991 834 1976 832 1946 124 1939 124 1972"/></Shape>
-	    <String CONTENT="pas, vous oussi, d’adopter la boîte"
+	    <String CONTENT="pas, vous aussi, d’adopter la boîte"
                     HPOS="122"
                     VPOS="1939"
                     WIDTH="712"
-                    HEIGHT="52"
-                    WC="0.998618914021386"></String>
+                    HEIGHT="52"></String>
           </TextLine>
           <TextLine ID="eSc_line_1725113f"
                     TAGREFS="LT497"
@@ -127,12 +138,11 @@
                     WIDTH="1032"
                     HEIGHT="59">
             <Shape><Polygon POINTS="126 2065 124 2085 1152 2089 1156 2073 1154 2038 126 2030 126 2065"/></Shape>
-	    <String CONTENT="AUCUNE DISTORSION : Nombre de systèmes d’omplificotion fonctionnent"
+	    <String CONTENT="AUCUNE DISTORSION : Nombre de systèmes d’amplificotion fonctionnent"
                     HPOS="124"
                     VPOS="2030"
                     WIDTH="1032"
-                    HEIGHT="59"
-                    WC="0.9831765898886848"></String>
+                    HEIGHT="59"></String>
           </TextLine>
           <TextLine ID="eSc_line_ab03394b"
                     TAGREFS="LT497"
@@ -142,12 +152,11 @@
                     WIDTH="1030"
                     HEIGHT="49">
             <Shape><Polygon POINTS="124 2097 122 2112 1148 2120 1152 2104 1150 2079 124 2071 124 2097"/></Shape>
-	    <String CONTENT="de monière suffisonte sur instruments bois, mois ne peuvent sotistoire les"
+	    <String CONTENT="de manière suffisante sur instruments bois, mois ne peuvent satistoire les"
                     HPOS="122"
                     VPOS="2071"
                     WIDTH="1030"
-                    HEIGHT="49"
-                    WC="0.9955523641904195"></String>
+                    HEIGHT="49"></String>
           </TextLine>
           <TextLine ID="eSc_line_7b59c5ac"
                     TAGREFS="LT497"
@@ -172,12 +181,11 @@
                     WIDTH="1030"
                     HEIGHT="50">
             <Shape><Polygon POINTS="124 2155 122 2178 1148 2180 1152 2165 1150 2137 124 2130 124 2155"/></Shape>
-	    <String CONTENT="KING vous gorontit une omplification fidèle, quel que soit votre instru¬"
+	    <String CONTENT="KING vous garantit une amplification fidèle, quel que soit votre instru¬"
                     HPOS="122"
                     VPOS="2130"
                     WIDTH="1030"
-                    HEIGHT="50"
-                    WC="0.9923847399345817"></String>
+                    HEIGHT="50"></String>
           </TextLine>
           <TextLine ID="eSc_line_64b00976"
                     TAGREFS="LT497"
@@ -187,12 +195,11 @@
                     WIDTH="811"
                     HEIGHT="50">
             <Shape><Polygon POINTS="124 2188 122 2206 930 2213 933 2194 931 2171 124 2163 124 2188"/></Shape>
-	    <String CONTENT="ment à vent. Vous vous exprimerez sons oucune crainte."
+	    <String CONTENT="ment à vent. Vous vous exprimerez sons aucune crainte."
                     HPOS="122"
                     VPOS="2163"
                     WIDTH="811"
-                    HEIGHT="50"
-                    WC="0.9949909697879444"></String>
+                    HEIGHT="50"></String>
           </TextLine>
           <TextLine ID="eSc_line_815bc51d"
                     TAGREFS="LT497"
@@ -217,12 +224,11 @@
                     WIDTH="841"
                     HEIGHT="47">
             <Shape><Polygon POINTS="124 2250 122 2268 959 2272 963 2256 961 2233 124 2225 124 2250"/></Shape>
-	    <String CONTENT="ment tout le cœur que vous ourez mis dons votre musique."
+	    <String CONTENT="ment tout le cœur que vous aurez mis dons votre musique."
                     HPOS="122"
                     VPOS="2225"
                     WIDTH="841"
-                    HEIGHT="47"
-                    WC="0.9975049506340709"></String>
+                    HEIGHT="47"></String>
           </TextLine>
           <TextLine ID="eSc_line_10fb1bc0"
                     TAGREFS="LT497"
@@ -232,12 +238,11 @@
                     WIDTH="1032"
                     HEIGHT="53">
             <Shape><Polygon POINTS="124 2282 122 2301 1150 2309 1154 2289 1152 2264 124 2256 124 2282"/></Shape>
-	    <String CONTENT="Le pickup KING VARI-LEVEL contribue à cette réponse, porce qu’il est"
+	    <String CONTENT="Le pickup KING VARI-LEVEL contribue à cette réponse, parce qu’il est"
                     HPOS="122"
                     VPOS="2256"
                     WIDTH="1032"
-                    HEIGHT="53"
-                    WC="0.998809678213937"></String>
+                    HEIGHT="53"></String>
           </TextLine>
           <TextLine ID="eSc_line_8de2e84d"
                     TAGREFS="LT497"
@@ -247,12 +252,11 @@
                     WIDTH="650"
                     HEIGHT="48">
             <Shape><Polygon POINTS="124 2311 122 2328 768 2334 772 2317 770 2291 124 2286 124 2311"/></Shape>
-	    <String CONTENT="tout simplement inégolé sur le morché mondiol"
+	    <String CONTENT="tout simplement inégalé sur le marché mondial"
                     HPOS="122"
                     VPOS="2286"
                     WIDTH="650"
-                    HEIGHT="48"
-                    WC="0.9872540918489298"></String>
+                    HEIGHT="48"></String>
           </TextLine>
           <TextLine ID="eSc_line_5362df04"
                     TAGREFS="LT497"
@@ -262,12 +266,11 @@
                     WIDTH="1032"
                     HEIGHT="47">
             <Shape><Polygon POINTS="124 2342 122 2362 1150 2364 1154 2348 1152 2323 124 2317 124 2342"/></Shape>
-	    <String CONTENT="Lo boîte d’octove KING OCTAVOICE (un modèle pour instruments bois"
+	    <String CONTENT="La boîte d’octave KING OCTAVOICE (un modèle pour instruments bois"
                     HPOS="122"
                     VPOS="2317"
                     WIDTH="1032"
-                    HEIGHT="47"
-                    WC="0.9987733639887909"></String>
+                    HEIGHT="47"></String>
           </TextLine>
           <TextLine ID="eSc_line_5f85d03c"
                     TAGREFS="LT497"
@@ -277,12 +280,11 @@
                     WIDTH="1030"
                     HEIGHT="49">
             <Shape><Polygon POINTS="124 2375 122 2393 1148 2399 1152 2379 1150 2354 124 2350 124 2375"/></Shape>
-	    <String CONTENT="et un outre pour instruments cuivre) vous restitue les effets recherchés"
+	    <String CONTENT="et un autre pour instruments cuivre) vous restitue les effets recherchés"
                     HPOS="122"
                     VPOS="2350"
                     WIDTH="1030"
-                    HEIGHT="49"
-                    WC="0.9885298209647609"></String>
+                    HEIGHT="49"></String>
           </TextLine>
           <TextLine ID="eSc_line_c588d68a"
                     TAGREFS="LT497"
@@ -292,12 +294,11 @@
                     WIDTH="646"
                     HEIGHT="45">
             <Shape><Polygon POINTS="124 2404 122 2422 764 2424 768 2406 766 2381 124 2379 124 2404"/></Shape>
-	    <String CONTENT="sur trois octoves et quotre tonolités différentes"
+	    <String CONTENT="sur trois octaves et quatre tonalités différentes"
                     HPOS="122"
                     VPOS="2379"
                     WIDTH="646"
-                    HEIGHT="45"
-                    WC="0.9906025902897704"></String>
+                    HEIGHT="45"></String>
           </TextLine>
           <TextLine ID="eSc_line_f16173f9"
                     TAGREFS="LT497"
@@ -307,12 +308,11 @@
                     WIDTH="1028"
                     HEIGHT="47">
             <Shape><Polygon POINTS="126 2434 124 2451 1148 2455 1152 2440 1150 2414 126 2408 126 2434"/></Shape>
-	    <String CONTENT="AUCUNE CONTORSJON : Régloge focile et instontoné... une légère touche"
+	    <String CONTENT="AUCUNE CONTORSION : Réglage facile et instantané... une légère touche"
                     HPOS="124"
                     VPOS="2408"
                     WIDTH="1028"
-                    HEIGHT="47"
-                    WC="0.9888190153526933"></String>
+                    HEIGHT="47"></String>
           </TextLine>
           <TextLine ID="eSc_line_a5a87c0a"
                     TAGREFS="LT497"
@@ -322,12 +322,11 @@
                     WIDTH="1024"
                     HEIGHT="42">
             <Shape><Polygon POINTS="126 2465 124 2480 1144 2482 1148 2467 1146 2441 126 2440 126 2465"/></Shape>
-	    <String CONTENT="du potentiomètre, directement monté sur l’instrument, suttit pour obtenir"
+	    <String CONTENT="du potentiomètre, directement monté sur l’instrument, suffit pour obtenir"
                     HPOS="124"
                     VPOS="2440"
                     WIDTH="1024"
-                    HEIGHT="42"
-                    WC="0.997627793153127"></String>
+                    HEIGHT="42"></String>
           </TextLine>
           <TextLine ID="eSc_line_8d6740e7"
                     TAGREFS="LT497"
@@ -337,12 +336,11 @@
                     WIDTH="1024"
                     HEIGHT="46">
             <Shape><Polygon POINTS="124 2496 122 2512 1142 2517 1146 2500 1144 2475 124 2471 124 2496"/></Shape>
-	    <String CONTENT="toutes les voriotions de régloge du volume. Les dimensions réduites de"
+	    <String CONTENT="toutes les variations de réglage du volume. Les dimensions réduites de"
                     HPOS="122"
                     VPOS="2471"
                     WIDTH="1024"
-                    HEIGHT="46"
-                    WC="0.9882854173580805"></String>
+                    HEIGHT="46"></String>
           </TextLine>
           <TextLine ID="eSc_line_f43f3c78"
                     TAGREFS="LT497"
@@ -367,12 +365,11 @@
                     WIDTH="490"
                     HEIGHT="41">
             <Shape><Polygon POINTS="124 2558 124 2570 612 2576 614 2558 614 2535 124 2535 124 2558"/></Shape>
-	    <String CONTENT="ou de l’occrocher à votre ceinture"
+	    <String CONTENT="ou de l’accrocher à votre ceinture"
                     HPOS="124"
                     VPOS="2535"
                     WIDTH="490"
-                    HEIGHT="41"
-                    WC="0.991658776147025"></String>
+                    HEIGHT="41"></String>
           </TextLine>
           <TextLine ID="eSc_line_5c06d074"
                     TAGREFS="LT497"
@@ -397,12 +394,11 @@
                     WIDTH="1030"
                     HEIGHT="43">
             <Shape><Polygon POINTS="124 2617 122 2634 1148 2636 1152 2621 1150 2597 124 2593 124 2617"/></Shape>
-	    <String CONTENT="nés oinsi que les Ets S.M.L. se tiennent à votre entière disposition pour"
+	    <String CONTENT="nés ainsi que les Ets S.M.L. se tiennent à votre entière disposition pour"
                     HPOS="122"
                     VPOS="2593"
                     WIDTH="1030"
-                    HEIGHT="43"
-                    WC="0.9983113157121759"></String>
+                    HEIGHT="43"></String>
           </TextLine>
           <TextLine ID="eSc_line_98ca6816"
                     TAGREFS="LT497"
@@ -412,12 +408,11 @@
                     WIDTH="642"
                     HEIGHT="41">
             <Shape><Polygon POINTS="122 2650 122 2664 762 2668 764 2650 764 2627 122 2627 122 2650"/></Shape>
-	    <String CONTENT="équiper votre instrument, en quelques instonts"
+	    <String CONTENT="équiper votre instrument, en quelques instants"
                     HPOS="122"
                     VPOS="2627"
                     WIDTH="642"
-                    HEIGHT="41"
-                    WC="0.9903818698639565"></String>
+                    HEIGHT="41"></String>
           </TextLine>
           <TextLine ID="eSc_line_ada0342d"
                     TAGREFS="LT497"
@@ -427,12 +422,11 @@
                     WIDTH="1032"
                     HEIGHT="47">
             <Shape><Polygon POINTS="746 2652 727 2652 707 2652 688 2652 668 2652 649 2652 629 2652 610 2652 590 2652 571 2652 551 2652 532 2652 512 2652 493 2652 473 2652 454 2652 434 2652 415 2652 395 2652 376 2652 356 2652 337 2652 317 2652 298 2652 278 2652 259 2652 239 2652 220 2652 200 2652 181 2652 161 2652 142 2652 122 2652 122 2677 120 2691 1148 2695 1152 2681 1150 2650 746 2648 746 2652"/></Shape>
-	    <String CONTENT="AUCUN PROBLEME D’ACQUISITION : Le prix de l’opporeil OCTA¬"
+	    <String CONTENT="AUCUN PROBLEME D’ACQUISITION : Le prix de l’apporeil OCTA¬"
                     HPOS="120"
                     VPOS="2648"
                     WIDTH="1032"
-                    HEIGHT="47"
-                    WC="0.9915472823998024"></String>
+                    HEIGHT="47"></String>
           </TextLine>
           <TextLine ID="eSc_line_c0bd5de3"
                     TAGREFS="LT497"
@@ -442,12 +436,11 @@
                     WIDTH="1028"
                     HEIGHT="47">
             <Shape><Polygon POINTS="124 2708 122 2722 1146 2730 1150 2714 1148 2689 124 2683 124 2708"/></Shape>
-	    <String CONTENT="VOICE est très roisonnoble, si l’on considère ses étonnontes possibilités"
+	    <String CONTENT="VOICE est très raisonnoble, si l’on considère ses étonnantes possibilités"
                     HPOS="122"
                     VPOS="2683"
                     WIDTH="1028"
-                    HEIGHT="47"
-                    WC="0.9932599044465399"></String>
+                    HEIGHT="47"></String>
           </TextLine>
           <TextLine ID="eSc_line_2b73eaf8"
                     TAGREFS="LT497"
@@ -457,12 +450,11 @@
                     WIDTH="1024"
                     HEIGHT="51">
             <Shape><Polygon POINTS="126 2738 124 2757 1144 2763 1148 2744 1146 2716 126 2712 126 2738"/></Shape>
-	    <String CONTENT="(boite d’octove comprenont le VARI-LEVEL pickup, livré complet ovec"
+	    <String CONTENT="(boite d’octave comprenant le VARI-LEVEL pickup, livré complet avec"
                     HPOS="124"
                     VPOS="2712"
                     WIDTH="1024"
-                    HEIGHT="51"
-                    WC="0.9956987035625121"></String>
+                    HEIGHT="51"></String>
           </TextLine>
           <TextLine ID="eSc_line_18894cc2"
                     TAGREFS="LT497"
@@ -472,12 +464,11 @@
                     WIDTH="1026"
                     HEIGHT="48">
             <Shape><Polygon POINTS="124 2767 122 2783 1144 2788 1148 2775 1146 2749 124 2740 124 2767"/></Shape>
-	    <String CONTENT="tous les occessoires, vous permettont de jouer votre instrument normo¬"
+	    <String CONTENT="tous les accessoires, vous permettant de jouer votre instrument norma¬"
                     HPOS="122"
                     VPOS="2740"
                     WIDTH="1026"
-                    HEIGHT="48"
-                    WC="0.9868881847177233"></String>
+                    HEIGHT="48"></String>
           </TextLine>
           <TextLine ID="eSc_line_2c9c29d6"
                     TAGREFS="LT497"
@@ -487,12 +478,11 @@
                     WIDTH="1026"
                     HEIGHT="48">
             <Shape><Polygon POINTS="124 2798 122 2816 1144 2823 1148 2806 1146 2777 124 2775 124 2798"/></Shape>
-	    <String CONTENT="lement ou ovec omplificotion) so focilité d’utilisation et son universa¬"
+	    <String CONTENT="lement ou avec amplification) sa facilité d’utilisation et son universa¬"
                     HPOS="122"
                     VPOS="2775"
                     WIDTH="1026"
-                    HEIGHT="48"
-                    WC="0.9778118770416468"></String>
+                    HEIGHT="48"></String>
           </TextLine>
           <TextLine ID="eSc_line_5ebd1eb9"
                     TAGREFS="LT497"
@@ -502,12 +492,11 @@
                     WIDTH="667"
                     HEIGHT="49">
             <Shape><Polygon POINTS="122 2833 122 2851 785 2855 787 2831 783 2808 120 2806 122 2833"/></Shape>
-	    <String CONTENT="lité d’emploi ovec n’importe quel omplificoteur."
+	    <String CONTENT="lité d’emploi avec n’importe quel amplificoteur."
                     HPOS="120"
                     VPOS="2806"
                     WIDTH="667"
-                    HEIGHT="49"
-                    WC="0.9831176424513057"></String>
+                    HEIGHT="49"></String>
           </TextLine>
           <TextLine ID="eSc_line_ef510f88"
                     TAGREFS="LT497"
@@ -517,12 +506,11 @@
                     WIDTH="960"
                     HEIGHT="67">
             <Shape><Polygon POINTS="161 2905 159 2929 1117 2927 1119 2909 1117 2882 926 2868 924 2868 855 2876 811 2880 655 2872 618 2870 616 2870 608 2870 565 2878 536 2868 526 2866 524 2866 522 2866 520 2866 512 2868 493 2876 380 2868 378 2868 253 2878 233 2864 232 2864 230 2864 161 2862 161 2905"/></Shape>
-	    <String CONTENT="VING MUSICAL INSTRUMENTS USA"
+	    <String CONTENT="KING MUSICAL INSTRUMENTS USA"
                     HPOS="159"
                     VPOS="2862"
                     WIDTH="960"
-                    HEIGHT="67"
-                    WC="0.9887256813900811"></String>
+                    HEIGHT="67"></String>
           </TextLine>
           <TextLine ID="eSc_line_cb4e7cd9"
                     TAGREFS="LT497"
@@ -553,21 +541,6 @@
                     WIDTH="659"
                     HEIGHT="74"
                     WC="0.9863829811414083"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_4907140b"
-                    TAGREFS="LT497"
-                    BASELINE="161 3168 187 3168" 
-                    HPOS="161"
-                    VPOS="3046"
-                    WIDTH="26"
-                    HEIGHT="150">
-            <Shape><Polygon POINTS="161 3168 161 3196 187 3196 187 3168 183 3046 161 3055 161 3168"/></Shape>
-	    <String CONTENT="4"
-                    HPOS="161"
-                    VPOS="3046"
-                    WIDTH="26"
-                    HEIGHT="150"
-                    WC="0.9618192911148071"></String>
           </TextLine>
           <TextLine ID="eSc_line_889e02ca"
                     TAGREFS="LT497"
@@ -2013,6 +1986,14 @@
                     HEIGHT="57"
                     WC="0.9765188183103289"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="83"
+                   VPOS="3307"
+                   WIDTH="86"
+                   HEIGHT="38"
+                   ID="eSc_textblock_fff54e0c"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="169 3345 169 3307 83 3307 83 3345"/></Shape>
         </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_f09beff0"

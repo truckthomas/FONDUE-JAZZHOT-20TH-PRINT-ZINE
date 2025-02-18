@@ -25,10 +25,10 @@
         <TextBlock HPOS="40"
                    VPOS="114"
                    WIDTH="802"
-                   HEIGHT="3000"
+                   HEIGHT="2939"
                    ID="eSc_textblock_d0941c76"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="40 114 40 3114 842 3114 842 114"/></Shape>
+          <Shape><Polygon POINTS="40 114 110 3048 842 3053 842 114"/></Shape>
           <TextLine ID="eSc_line_61bd5e0c"
                     TAGREFS="LT497"
                     BASELINE="93 182 403 175" 
@@ -1159,15 +1159,14 @@
                     BASELINE="126 3077 182 3073" 
                     HPOS="121"
                     VPOS="3042"
-                    WIDTH="70"
-                    HEIGHT="171">
-            <Shape><Polygon POINTS="170 3070 154 3042 121 3042 126 3077 135 3213 191 3210 182 3073 179 3070 170 3070"/></Shape>
-	    <String CONTENT="2"
+                    WIDTH="61"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="154 3042 121 3042 126 3077 130 3110 177 3100 182 3073 179 3070 170 3070"/></Shape>
+	    <String CONTENT="14"
                     HPOS="121"
                     VPOS="3042"
-                    WIDTH="70"
-                    HEIGHT="171"
-                    WC="0.9860709309577942"></String>
+                    WIDTH="61"
+                    HEIGHT="68"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="871"
@@ -3221,15 +3220,23 @@
                     BASELINE="1671 3003 2143 2991" 
                     HPOS="1669"
                     VPOS="2958"
-                    WIDTH="477"
-                    HEIGHT="257">
-            <Shape><Polygon POINTS="1671 3003 1676 3215 1770 3203 2146 3203 2143 2991 2136 2958 1669 2972 1671 3003"/></Shape>
-	    <String CONTENT=""
+                    WIDTH="474"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1697 3039 1752 3027 2141 3037 2143 2991 2136 2958 1669 2972 1671 3003"/></Shape>
+	    <String CONTENT="Jeu. 21, 21 h : Jimmy Smith"
                     HPOS="1669"
                     VPOS="2958"
-                    WIDTH="477"
-                    HEIGHT="257"></String>
+                    WIDTH="474"
+                    HEIGHT="81"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="110"
+                   VPOS="3054"
+                   WIDTH="92"
+                   HEIGHT="58"
+                   ID="eSc_textblock_2627e6af"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="202 3112 202 3056 110 3054 110 3112"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

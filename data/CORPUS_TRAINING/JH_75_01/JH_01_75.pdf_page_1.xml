@@ -28,7 +28,7 @@
                    HEIGHT="3237"
                    ID="eSc_textblock_8063e2f7"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="79 105 79 3342 1268 3342 1268 105"/></Shape>
+          <Shape><Polygon POINTS="79 105 124 3303 1268 3342 1268 105"/></Shape>
           <TextLine ID="eSc_line_4c7b9fdc"
                     TAGREFS="LT497"
                     BASELINE="130 259 530 255" 
@@ -1782,20 +1782,6 @@
                     HEIGHT="43"
                     WC="0.9894490900792574"></String>
           </TextLine>
-          <TextLine ID="eSc_line_307352bb"
-                    TAGREFS="LT497"
-                    BASELINE="1341 1941 2285 1950" 
-                    HPOS="1336"
-                    VPOS="1903"
-                    WIDTH="948"
-                    HEIGHT="90">
-            <Shape><Polygon POINTS="1865 1906 1836 1906 1807 1906 1778 1906 1748 1906 1719 1906 1690 1906 1661 1906 1631 1906 1602 1906 1573 1906 1544 1906 1514 1906 1485 1906 1456 1906 1427 1906 1397 1906 1368 1906 1339 1906 1339 1938 1336 1967 1456 1970 1456 1973 1482 1990 1485 1990 1488 1990 1511 1990 1541 1990 1570 1990 1599 1990 1628 1990 1658 1990 1687 1990 1716 1990 1745 1990 1775 1990 1775 1993 2281 1993 2284 1949 2281 1903 1868 1903 1865 1906"/></Shape>
-	    <String CONTENT="A la Cour des Miracles, Lacy était seul sur l&#x27;estrade et sur l&#x27;estrade et la salle était pleine"
-                    HPOS="1336"
-                    VPOS="1903"
-                    WIDTH="948"
-                    HEIGHT="90"></String>
-          </TextLine>
           <TextLine ID="eSc_line_a450a283"
                     BASELINE="1341 1968 2404 1962" 
                     HPOS="1336"
@@ -2410,7 +2396,29 @@
                     WC="0.9940358423269712"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="124"
+                   VPOS="3326"
+                   WIDTH="102"
+                   HEIGHT="52"
+                   ID="eSc_textblock_20daf974"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="215 3378 226 3326 124 3326 124 3356"/></Shape>
+        </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_307352bb"
+                    TAGREFS="LT497"
+                    BASELINE="1341 1941 1953 1940 2399 1939" 
+                    HPOS="1339"
+                    VPOS="1894"
+                    WIDTH="1059"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1865 1906 1836 1906 1807 1906 1778 1906 1748 1906 1719 1906 1690 1906 1661 1906 1631 1906 1602 1906 1573 1906 1544 1906 1514 1906 1485 1906 1456 1906 1427 1906 1397 1906 1368 1906 1339 1906 1339 1938 1339 1961 1880 1958 1895 1958 1924 1958 1953 1958 1982 1958 2012 1958 2041 1958 2070 1958 2099 1958 2129 1958 2158 1958 2187 1958 2216 1958 2246 1958 2275 1958 2304 1958 2333 1958 2363 1958 2392 1958 2398 1958 2398 1938 2395 1894 1871 1897 1865 1906"/></Shape>
+	    <String CONTENT="A la Cour des Miracles, Lacy était seul sur l&#x27;estrade et sur l&#x27;estrade et la salle était pleine"
+                    HPOS="1339"
+                    VPOS="1894"
+                    WIDTH="1059"
+                    HEIGHT="67"></String>
+          </TextLine>
           <TextLine ID="eSc_line_c5df4e09"
                     TAGREFS="LT497"
                     BASELINE="148 3354 210 3348" 

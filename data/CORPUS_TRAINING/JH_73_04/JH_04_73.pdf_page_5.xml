@@ -25,10 +25,10 @@
         <TextBlock HPOS="56"
                    VPOS="133"
                    WIDTH="1190"
-                   HEIGHT="3243"
+                   HEIGHT="2068"
                    ID="eSc_textblock_4b383b05"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="56 133 56 3376 1246 3376 1246 133"/></Shape>
+          <Shape><Polygon POINTS="56 133 93 2201 1215 2183 1246 133"/></Shape>
           <TextLine ID="eSc_line_89f83779"
                     TAGREFS="LT497"
                     BASELINE="111 185 434 179" 
@@ -532,12 +532,11 @@
                     WIDTH="482"
                     HEIGHT="45">
             <Shape><Polygon POINTS="124 1321 124 1338 604 1342 606 1321 606 1297 124 1297 124 1321"/></Shape>
-	    <String CONTENT="Vendredi soir : lazz d’avant-garde"
+	    <String CONTENT="Vendredi soir : jazz d’avant-garde"
                     HPOS="124"
                     VPOS="1297"
                     WIDTH="482"
-                    HEIGHT="45"
-                    WC="0.9756972930010628"></String>
+                    HEIGHT="45"></String>
           </TextLine>
           <TextLine ID="eSc_line_e9205232"
                     TAGREFS="LT497"
@@ -771,12 +770,11 @@
                     WIDTH="796"
                     HEIGHT="45">
             <Shape><Polygon POINTS="122 1763 122 1779 918 1777 918 1763 918 1740 122 1734 122 1763"/></Shape>
-	    <String CONTENT="Concerts le vendredi, lazz d’avant-garde. Se renseigner."
+	    <String CONTENT="Concerts le vendredi, Jazz d’avant-garde. Se renseigner."
                     HPOS="122"
                     VPOS="1734"
                     WIDTH="796"
-                    HEIGHT="45"
-                    WC="0.998680154127734"></String>
+                    HEIGHT="45"></String>
           </TextLine>
           <TextLine ID="eSc_line_7eb633e0"
                     TAGREFS="LT497"
@@ -906,12 +904,11 @@
                     WIDTH="1068"
                     HEIGHT="82">
             <Shape><Polygon POINTS="131 2055 131 2081 160 2081 190 2081 219 2081 219 2081 1190 2084 1196 2055 1187 2008 409 2022 128 2002 131 2055"/></Shape>
-	    <String CONTENT="On aura reconnu sous son ticomne britannique l’amral (’admirables"
+	    <String CONTENT="On aura reconnu sous son ticomne britannique l’amiral (l’admirables)"
                     HPOS="128"
                     VPOS="2002"
                     WIDTH="1068"
-                    HEIGHT="82"
-                    WC="0.9592566712544515"></String>
+                    HEIGHT="82"></String>
           </TextLine>
           <TextLine ID="eSc_line_fbee2c79"
                     TAGREFS="LT497"
@@ -936,12 +933,11 @@
                     WIDTH="252"
                     HEIGHT="47">
             <Shape><Polygon POINTS="949 2110 949 2128 1197 2128 1199 2106 1193 2081 947 2083 949 2110"/></Shape>
-	    <String CONTENT="1.P. TURBERGUE."
+	    <String CONTENT="J.P. TURBERGUE."
                     HPOS="947"
                     VPOS="2081"
                     WIDTH="252"
-                    HEIGHT="47"
-                    WC="0.9958498994509379"></String>
+                    HEIGHT="47"></String>
           </TextLine>
           <TextLine ID="eSc_line_2e4a5224"
                     TAGREFS="LT497"
@@ -2512,18 +2508,17 @@
           </TextLine>
           <TextLine ID="eSc_line_d6f4fe7a"
                     TAGREFS="LT497"
-                    BASELINE="1306 2886 2056 2882" 
-                    HPOS="1304"
-                    VPOS="2860"
-                    WIDTH="752"
-                    HEIGHT="43">
-            <Shape><Polygon POINTS="1306 2886 1306 2901 2053 2903 2056 2882 2051 2860 1304 2860 1306 2886"/></Shape>
-	    <String CONTENT="TAGE FESTIVAL ., voici le programme des réjouissa"
-                    HPOS="1304"
-                    VPOS="2860"
-                    WIDTH="752"
-                    HEIGHT="43"
-                    WC="0.99698765873909"></String>
+                    BASELINE="1306 2886 2137 2882" 
+                    HPOS="1301"
+                    VPOS="2838"
+                    WIDTH="833"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="2091 2853 2061 2853 2032 2853 2003 2853 1974 2853 1944 2853 1915 2853 1886 2853 1857 2853 1827 2856 1798 2856 1769 2856 1740 2856 1710 2856 1681 2856 1652 2856 1623 2856 1593 2856 1564 2859 1535 2859 1506 2859 1476 2859 1447 2859 1418 2859 1389 2859 1359 2859 1330 2859 1321 2838 1301 2838 1304 2885 1304 2902 2131 2897 2134 2879 2129 2850 2120 2850"/></Shape>
+	    <String CONTENT="TAGE FESTIVAL ., voici le programme des réjouissances"
+                    HPOS="1301"
+                    VPOS="2838"
+                    WIDTH="833"
+                    HEIGHT="64"></String>
           </TextLine>
           <TextLine ID="eSc_line_495c146c"
                     TAGREFS="LT497"
@@ -2562,12 +2557,11 @@
                     WIDTH="1082"
                     HEIGHT="64">
             <Shape><Polygon POINTS="1953 2935 1924 2937 1895 2937 1865 2937 1836 2937 1807 2937 1778 2937 1748 2937 1719 2937 1690 2937 1661 2937 1631 2937 1602 2937 1573 2937 1544 2937 1514 2937 1485 2937 1456 2937 1427 2937 1397 2937 1368 2937 1339 2937 1310 2937 1313 2964 1313 2987 2000 2984 2012 2984 2041 2984 2070 2984 2099 2984 2129 2984 2158 2984 2187 2984 2216 2984 2246 2984 2275 2984 2304 2984 2333 2984 2363 2984 2389 2984 2392 2961 2386 2926 1962 2923 1953 2935"/></Shape>
-	    <String CONTENT="Mercredi ir abriSalute to the kmg of Sviing, au Municipal, Auditorium."
+	    <String CONTENT="Mercredi 11 avril : « Salute to the King of Swing » au Municipal Auditorium."
                     HPOS="1310"
                     VPOS="2923"
                     WIDTH="1082"
-                    HEIGHT="64"
-                    WC="0.9619124259267534"></String>
+                    HEIGHT="64"></String>
           </TextLine>
           <TextLine ID="eSc_line_fc3f0afa"
                     TAGREFS="LT497"
@@ -2577,12 +2571,11 @@
                     WIDTH="1088"
                     HEIGHT="84">
             <Shape><Polygon POINTS="1307 2993 1307 3019 1333 3016 1362 3016 1362 3016 2389 3013 2392 2987 2383 2935 1304 2940 1307 2993"/></Shape>
-	    <String CONTENT="Stergse Gobamanle es Salate, o he lano sot. Svenor, au, Munte pgl seuditoSem."
+	    <String CONTENT="Benny Goodman/Preservation Hall Jazz Band en l&#x27;occurence, Billie &amp; Dede"
                     HPOS="1304"
                     VPOS="2935"
                     WIDTH="1088"
-                    HEIGHT="84"
-                    WC="0.8225052439934247"></String>
+                    HEIGHT="84"></String>
           </TextLine>
           <TextLine ID="eSc_line_567fd4ac"
                     TAGREFS="LT497"
@@ -2607,12 +2600,11 @@
                     WIDTH="838"
                     HEIGHT="53">
             <Shape><Polygon POINTS="1310 3050 1310 3065 2144 3055 2146 3042 2140 3012 1308 3022 1310 3050"/></Shape>
-	    <String CONTENT="Jeudt 12 avril : « Blues 8 Roots » au Muntcipal Auditorium."
+	    <String CONTENT="Jeudi 12 avril : « Blues &amp; Roots » au Municipal Auditorium."
                     HPOS="1308"
                     VPOS="3012"
                     WIDTH="838"
-                    HEIGHT="53"
-                    WC="0.9734039033873606"></String>
+                    HEIGHT="53"></String>
           </TextLine>
           <TextLine ID="eSc_line_8d231a5a"
                     TAGREFS="LT497"
@@ -2622,12 +2614,11 @@
                     WIDTH="579"
                     HEIGHT="40">
             <Shape><Polygon POINTS="1483 3050 1464 3050 1444 3050 1425 3050 1405 3050 1386 3050 1366 3050 1347 3050 1327 3050 1308 3050 1310 3077 1310 3090 1885 3088 1887 3073 1883 3050 1503 3050 1483 3050"/></Shape>
-	    <String CONTENT="Howlin&#x27; wolf/Taj Mahal/lohn Lee Hooker"
+	    <String CONTENT="Howlin&#x27; wolf/Taj Mahal/John Lee Hooker"
                     HPOS="1308"
                     VPOS="3050"
                     WIDTH="579"
-                    HEIGHT="40"
-                    WC="0.973601011853469"></String>
+                    HEIGHT="40"></String>
           </TextLine>
           <TextLine ID="eSc_line_d016d239"
                     TAGREFS="LT497"
@@ -2637,12 +2628,11 @@
                     WIDTH="856"
                     HEIGHT="47">
             <Shape><Polygon POINTS="1854 3075 1834 3075 1815 3075 1795 3075 1776 3075 1756 3075 1737 3075 1717 3075 1698 3075 1678 3075 1659 3075 1639 3075 1620 3075 1600 3075 1581 3077 1561 3077 1542 3077 1522 3077 1503 3077 1483 3077 1464 3077 1444 3077 1425 3077 1405 3077 1386 3077 1366 3077 1347 3077 1327 3077 1308 3077 1310 3102 1310 3122 2162 3116 2164 3096 2160 3075 1873 3075 1854 3075"/></Shape>
-	    <String CONTENT="Vendredi 13 avril : - Soul ot lazz» au Municipal Auditorium"
+	    <String CONTENT="Vendredi 13 avril : - Soul of Jazz» au Municipal Auditorium"
                     HPOS="1308"
                     VPOS="3075"
                     WIDTH="856"
-                    HEIGHT="47"
-                    WC="0.9737732622583034"></String>
+                    HEIGHT="47"></String>
           </TextLine>
           <TextLine ID="eSc_line_191e9cbf"
                     TAGREFS="LT497"
@@ -2652,12 +2642,11 @@
                     WIDTH="1088"
                     HEIGHT="67">
             <Shape><Polygon POINTS="2158 3098 2129 3098 2099 3098 2070 3098 2041 3098 2012 3098 1982 3098 1953 3098 1924 3098 1895 3098 1865 3098 1836 3098 1807 3098 1778 3098 1748 3098 1719 3101 1690 3101 1661 3101 1631 3101 1602 3101 1573 3101 1544 3101 1514 3101 1485 3101 1456 3101 1427 3101 1397 3101 1368 3101 1339 3101 1310 3101 1313 3127 1313 3148 2398 3145 2398 3122 2389 3081 2161 3081 2158 3098"/></Shape>
-	    <String CONTENT="8° E. Kingfthe Stapple Singers /pave Brubeck. Gerry Mulligan, loe Newmant"
+	    <String CONTENT="B.B. King/The Stapple Singers/Dave Brubeck, Gerry Milligan, Joe Newman/"
                     HPOS="1310"
                     VPOS="3081"
                     WIDTH="1088"
-                    HEIGHT="67"
-                    WC="0.9769800223716317"></String>
+                    HEIGHT="67"></String>
           </TextLine>
           <TextLine ID="eSc_line_d8b0342f"
                     TAGREFS="LT497"
@@ -2682,12 +2671,11 @@
                     WIDTH="860"
                     HEIGHT="96">
             <Shape><Polygon POINTS="1456 3157 1427 3157 1397 3157 1368 3157 1339 3157 1310 3157 1313 3183 1313 3206 1602 3206 1620 3218 1631 3230 1661 3230 1666 3230 1716 3224 1731 3236 1731 3239 1734 3239 1737 3239 1740 3241 2167 3241 2170 3180 2161 3145 1494 3145 1485 3157"/></Shape>
-	    <String CONTENT="Samed Ja ail, ¿NoUs, eS StS a N. MuntCIAL (AUdUeER"
+	    <String CONTENT="Samedi 14 avril : « Night of Stars » au Municipal Auditorium."
                     HPOS="1310"
                     VPOS="3145"
                     WIDTH="860"
-                    HEIGHT="96"
-                    WC="0.8224278482794761"></String>
+                    HEIGHT="96"></String>
           </TextLine>
           <TextLine ID="eSc_line_5594314b"
                     TAGREFS="LT497"
@@ -2697,12 +2685,11 @@
                     WIDTH="1073"
                     HEIGHT="65">
             <Shape><Polygon POINTS="2134 3183 2105 3183 2076 3183 2047 3183 2017 3183 1988 3183 1959 3183 1930 3183 1900 3183 1871 3183 1842 3183 1813 3183 1783 3183 1754 3183 1725 3183 1696 3183 1666 3183 1637 3183 1608 3183 1579 3183 1550 3183 1520 3183 1491 3183 1462 3183 1433 3183 1403 3183 1374 3183 1345 3183 1316 3183 1318 3206 1318 3233 1494 3230 1520 3230 1550 3230 1579 3230 1608 3230 1637 3230 1666 3230 1696 3230 1725 3230 2386 3230 2389 3203 2383 3171 2170 3168 2164 3183"/></Shape>
-	    <String CONTENT="Stevie Wonderstierbie Mann/F athead Newmanffioland KiridThe Ramsey Lewis"
+	    <String CONTENT="Stevie Wonder/Herbie Mann/Fathead Newman/Roland Kirk/The Ramsey Lewis"
                     HPOS="1316"
                     VPOS="3168"
                     WIDTH="1073"
-                    HEIGHT="65"
-                    WC="0.9741501423219839"></String>
+                    HEIGHT="65"></String>
           </TextLine>
           <TextLine ID="eSc_line_50b1e549"
                     TAGREFS="LT497"
@@ -2712,12 +2699,11 @@
                     WIDTH="421"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1719 3233 1700 3235 1680 3211 1310 3211 1312 3241 1312 3270 1448 3287 1450 3287 1731 3264 1731 3235 1729 3233 1719 3233"/></Shape>
-	    <String CONTENT="tioffhe Olympia Brass Bane"
+	    <String CONTENT="trio/The Olympia Brass Band."
                     HPOS="1310"
                     VPOS="3211"
                     WIDTH="421"
-                    HEIGHT="76"
-                    WC="0.9574577579131494"></String>
+                    HEIGHT="76"></String>
           </TextLine>
           <TextLine ID="eSc_line_639ff228"
                     TAGREFS="LT497"
@@ -2727,13 +2713,36 @@
                     WIDTH="349"
                     HEIGHT="53">
             <Shape><Polygon POINTS="2390 3223 2049 3227 2051 3260 2051 3276 2398 3276 2398 3252 2392 3229 2390 3223"/></Shape>
-	    <String CONTENT="lean-Plerre DAUBRESSE."
+	    <String CONTENT="Jean-Pierre DAUBRESSE."
                     HPOS="2049"
                     VPOS="3223"
                     WIDTH="349"
-                    HEIGHT="53"
-                    WC="0.9911153695800088"></String>
+                    HEIGHT="53"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="103"
+                   VPOS="3285"
+                   WIDTH="104"
+                   HEIGHT="75"
+                   ID="eSc_textblock_fb334c0e"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="207 3360 207 3285 103 3285 103 3360"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="94"
+                   VPOS="2205"
+                   WIDTH="1133"
+                   HEIGHT="1095"
+                   ID="eSc_textblock_d96f06ed"
+                   TAGREFS="BT1046">
+          <Shape><Polygon POINTS="1227 3300 1227 2205 94 2205 94 3300"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="610"
+                   VPOS="3025"
+                   WIDTH="22"
+                   HEIGHT="343"
+                   ID="eSc_textblock_f9a93dfd"
+                   >
+          <Shape><Polygon POINTS="632 3368 632 3025 610 3025 610 3368"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

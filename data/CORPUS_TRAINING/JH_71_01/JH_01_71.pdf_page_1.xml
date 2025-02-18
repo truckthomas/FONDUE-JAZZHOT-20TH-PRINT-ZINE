@@ -27,7 +27,7 @@
                    WIDTH="1194"
                    HEIGHT="3253"
                    ID="eSc_textblock_0d7bcb9b"
-                   TAGREFS="BT12">
+                   TAGREFS="BT7">
           <Shape><Polygon POINTS="38 166 38 3419 1232 3419 1232 166"/></Shape>
           <TextLine ID="eSc_line_0f118f62"
                     TAGREFS="LT497"
@@ -82,12 +82,11 @@
                     WIDTH="564"
                     HEIGHT="60">
             <Shape><Polygon POINTS="360 452 360 475 922 469 922 444 916 415 358 424 360 452"/></Shape>
-	    <String CONTENT="(Charles Scribner&#x27;s Sons, New Vork)"
+	    <String CONTENT="(Charles Scribner&#x27;s Sons, New York)"
                     HPOS="358"
                     VPOS="415"
                     WIDTH="564"
-                    HEIGHT="60"
-                    WC="0.9695516152041299"></String>
+                    HEIGHT="60"></String>
           </TextLine>
           <TextLine ID="eSc_line_4279820c"
                     TAGREFS="LT497"
@@ -157,12 +156,11 @@
                     WIDTH="1080"
                     HEIGHT="67">
             <Shape><Polygon POINTS="105 701 105 715 1181 699 1183 680 1177 648 103 670 105 701"/></Shape>
-	    <String CONTENT="Dance qui, de tous les critiques de jazz est sans doute celur"
+	    <String CONTENT="Dance qui, de tous les critiques de jazz est sans doute celui"
                     HPOS="103"
                     VPOS="648"
                     WIDTH="1080"
-                    HEIGHT="67"
-                    WC="0.9991791854139234"></String>
+                    HEIGHT="67"></String>
           </TextLine>
           <TextLine ID="eSc_line_c75db0ce"
                     TAGREFS="LT497"
@@ -1462,15 +1460,15 @@
                     WC="0.9983678735219516"></String>
           </TextLine>
           <TextLine ID="eSc_line_04e71a87"
-                    BASELINE="1322 739 1332 739 1384 739 1519 739 1770 731 1912 731 1975 731 2029 726 2166 714 2248 714 2316 724 2346 729" 
+                    BASELINE="1322 739 1332 739 1384 739 1519 739 1770 731 1912 731 1975 731 2029 726 2163 727 2248 729 2316 724 2346 729" 
                     HPOS="1318"
-                    VPOS="678"
+                    VPOS="681"
                     WIDTH="1027"
                     HEIGHT="87">
-            <Shape><Polygon POINTS="1962 689 1933 689 1903 689 1874 689 1845 689 1816 689 1786 689 1757 689 1754 689 1646 689 1640 692 1611 692 1608 692 1318 695 1321 736 1321 765 2345 757 2345 727 2342 678 1962 684 1962 689"/></Shape>
+            <Shape><Polygon POINTS="1962 689 1933 689 1903 689 1874 689 1845 689 1827 689 1318 695 1321 736 1321 768 2342 760 2345 727 2342 681 1962 686 1962 689"/></Shape>
 	    <String CONTENT="21 janvier, au Centre culturel américain (20 h 30) Robin"
                     HPOS="1318"
-                    VPOS="678"
+                    VPOS="681"
                     WIDTH="1027"
                     HEIGHT="87"
                     WC="0.9641604300202995"></String>
@@ -1553,10 +1551,10 @@
         <TextBlock HPOS="1271"
                    VPOS="1046"
                    WIDTH="1155"
-                   HEIGHT="2366"
+                   HEIGHT="2294"
                    ID="eSc_textblock_441d4862"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="2426 3412 2426 1046 1271 1046 1271 3412"/></Shape>
+          <Shape><Polygon POINTS="2392 3334 2426 1046 1271 1046 1291 3340"/></Shape>
           <TextLine ID="eSc_line_b4ebe208"
                     TAGREFS="LT497"
                     BASELINE="1705 1177 1967 1173" 
@@ -1945,12 +1943,13 @@
                     WC="0.9788220226764679"></String>
           </TextLine>
           <TextLine ID="eSc_line_ab3be384"
+                    TAGREFS="LT497"
                     BASELINE="1332 2482 1382 2482 1513 2482 1750 2477 1921 2477 2040 2468 2259 2464 2333 2466 2365 2470" 
                     HPOS="1327"
                     VPOS="2411"
                     WIDTH="1036"
                     HEIGHT="97">
-            <Shape><Polygon POINTS="1330 2481 1330 2499 1792 2493 1795 2493 1918 2508 1921 2508 2152 2490 2330 2499 2333 2499 2336 2499 2339 2499 2363 2484 2363 2467 2357 2411 1327 2443 1330 2481"/></Shape>
+            <Shape><Polygon POINTS="1330 2499 1792 2493 1795 2493 1918 2508 1921 2508 2152 2490 2330 2499 2333 2499 2336 2499 2339 2499 2363 2484 2363 2467 2357 2411 1327 2443 1330 2481"/></Shape>
 	    <String CONTENT="8 janvier 18 h 30: New York au jour le jour, avec André"
                     HPOS="1327"
                     VPOS="2411"
@@ -2064,12 +2063,13 @@
                     WC="0.9936073770125707"></String>
           </TextLine>
           <TextLine ID="eSc_line_760e3017"
+                    TAGREFS="LT497"
                     BASELINE="1323 2881 1391 2878 1598 2878 1842 2878 1948 2878 2108 2883 2176 2883 2345 2874" 
                     HPOS="1318"
                     VPOS="2835"
                     WIDTH="1024"
                     HEIGHT="73">
-            <Shape><Polygon POINTS="1321 2879 1321 2908 2339 2908 2342 2873 2333 2835 1318 2838 1321 2879"/></Shape>
+            <Shape><Polygon POINTS="1321 2908 2339 2908 2342 2873 2333 2835 1318 2838 1321 2879"/></Shape>
 	    <String CONTENT="JAZZ SUR SCENE (le samedi de 23 h 30 à 0 h 30), une émis"
                     HPOS="1318"
                     VPOS="2835"
@@ -2084,7 +2084,7 @@
                     VPOS="2890"
                     WIDTH="367"
                     HEIGHT="48">
-            <Shape><Polygon POINTS="1323 2921 1323 2938 1688 2935 1688 2915 1682 2890 1321 2894 1323 2921"/></Shape>
+            <Shape><Polygon POINTS="1323 2938 1688 2935 1688 2915 1682 2890 1321 2894 1323 2921"/></Shape>
 	    <String CONTENT="sion d’André Francis:"
                     HPOS="1321"
                     VPOS="2890"
@@ -2093,12 +2093,13 @@
                     WC="0.9913034547458995"></String>
           </TextLine>
           <TextLine ID="eSc_line_b7526609"
+                    TAGREFS="LT497"
                     BASELINE="1337 2966 1339 2966 1375 2966 1463 2966 1686 2962 1846 2962 1984 2964 2101 2964 2354 2964" 
                     HPOS="1333"
                     VPOS="2923"
                     WIDTH="1018"
                     HEIGHT="64">
-            <Shape><Polygon POINTS="1336 2964 1336 2987 2348 2984 2351 2961 2345 2923 1333 2923 1336 2964"/></Shape>
+            <Shape><Polygon POINTS="1336 2987 2348 2984 2351 2961 2345 2923 1333 2923 1336 2964"/></Shape>
 	    <String CONTENT="2 janvier : Aretha Franklin, Ella Fitzgerald, Anita O&#x27;Day et"
                     HPOS="1333"
                     VPOS="2923"
@@ -2122,7 +2123,8 @@
                     WC="0.9870256866727557"></String>
           </TextLine>
           <TextLine ID="eSc_line_6c705ecd"
-                    BASELINE="1335 3050 1335 3050 1353 3050 1380 3050 1445 3050 1677 3052 1786 3041 1889 3041 2180 3057 2349 3050" 
+                    TAGREFS="LT497"
+                    BASELINE="1335 3050 1353 3050 1380 3050 1445 3050 1677 3052 1786 3041 1889 3041 2180 3057 2349 3050" 
                     HPOS="1330"
                     VPOS="3008"
                     WIDTH="1018"
@@ -2218,13 +2220,20 @@
                     WIDTH="63"
                     HEIGHT="68">
             <Shape><Polygon POINTS="2388 3359 2376 3334 2329 3330 2329 3363 2329 3398 2392 3394 2392 3363 2392 3359 2388 3359"/></Shape>
-	    <String CONTENT="28"
+	    <String CONTENT="29"
                     HPOS="2329"
                     VPOS="3330"
                     WIDTH="63"
-                    HEIGHT="68"
-                    WC="0.9986705780029297"></String>
+                    HEIGHT="68"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2329"
+                   VPOS="3336"
+                   WIDTH="65"
+                   HEIGHT="55"
+                   ID="eSc_textblock_ea1440f1"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2394 3391 2394 3336 2329 3336 2329 3391"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

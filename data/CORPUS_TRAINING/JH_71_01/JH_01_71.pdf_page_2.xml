@@ -546,7 +546,37 @@
                     WC="0.986700469500398"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="90"
+                   VPOS="1771"
+                   WIDTH="1116"
+                   HEIGHT="1543"
+                   ID="eSc_textblock_e28fc2b9"
+                   >
+          <Shape><Polygon POINTS="90 1771 90 3314 1206 3314 1206 1771"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1290"
+                   VPOS="99"
+                   WIDTH="1117"
+                   HEIGHT="3260"
+                   ID="eSc_textblock_6b6526e3"
+                   >
+          <Shape><Polygon POINTS="1290 99 1290 3359 2407 3359 2407 99"/></Shape>
+        </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_d7338fb1"
+                    TAGREFS="LT497"
+                    BASELINE="2070 389 2398 385" 
+                    HPOS="2064"
+                    VPOS="315"
+                    WIDTH="331"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="2067 388 2067 415 2395 415 2395 382 2389 315 2064 315 2067 388"/></Shape>
+	    <String CONTENT="Comment ?"
+                    HPOS="2064"
+                    VPOS="315"
+                    WIDTH="331"
+                    HEIGHT="100"></String>
+          </TextLine>
           <TextLine ID="eSc_line_efb7a6a4"
                     TAGREFS="LT497"
                     BASELINE="2074 469 2286 469" 
@@ -562,21 +592,6 @@
                     HEIGHT="90"
                     WC="0.9896804094314575"></String>
           </TextLine>
-          <TextLine ID="eSc_line_d7338fb1"
-                    TAGREFS="LT497"
-                    BASELINE="2070 389 2398 385" 
-                    HPOS="2064"
-                    VPOS="315"
-                    WIDTH="331"
-                    HEIGHT="100">
-            <Shape><Polygon POINTS="2067 388 2067 415 2395 415 2395 382 2389 315 2064 315 2067 388"/></Shape>
-	    <String CONTENT="VATEL!"
-                    HPOS="2064"
-                    VPOS="315"
-                    WIDTH="331"
-                    HEIGHT="100"
-                    WC="0.9997465544276767"></String>
-          </TextLine>
           <TextLine ID="eSc_line_15ee0c94"
                     TAGREFS="LT497"
                     BASELINE="1321 734 2387 731" 
@@ -585,12 +600,11 @@
                     WIDTH="1070"
                     HEIGHT="62">
             <Shape><Polygon POINTS="1318 733 1318 757 1348 757 1377 757 1406 757 1435 757 1465 757 1494 757 1523 757 1552 757 1582 757 1611 757 1640 757 1669 757 1699 757 1728 757 1757 754 1786 754 1816 754 1845 754 1874 754 1903 754 1933 754 1962 754 1991 754 2020 754 2050 754 2079 754 2108 754 2137 754 2167 754 2196 754 2225 754 2254 754 2284 754 2313 754 2342 754 2371 754 2383 754 2386 730 2377 695 1316 695 1318 733"/></Shape>
-	    <String CONTENT="A deux pas de l’avenue George-V, à un jet de plerre de la rue François-1es"
+	    <String CONTENT="A deux pas de l’avenue George-V, à un jet de pierre de la rue François-1er"
                     HPOS="1316"
                     VPOS="695"
                     WIDTH="1070"
-                    HEIGHT="62"
-                    WC="0.9867087932009446"></String>
+                    HEIGHT="62"></String>
           </TextLine>
           <TextLine ID="eSc_line_a59c7180"
                     TAGREFS="LT497"
@@ -615,12 +629,11 @@
                     WIDTH="1076"
                     HEIGHT="70">
             <Shape><Polygon POINTS="2365 733 1342 733 1339 713 1313 713 1316 783 1345 780 2386 777 2389 757 2383 730 2365 733"/></Shape>
-	    <String CONTENT="Aeea gles dec le bouifonnant Immemble deSaris Miatch s au 48. de ¡."
+	    <String CONTENT="côte-à-côte avec le bouillonnant immeuble de « Paris-Match », au 49, de la"
                     HPOS="1313"
                     VPOS="713"
                     WIDTH="1076"
-                    HEIGHT="70"
-                    WC="0.8914604809746813"></String>
+                    HEIGHT="70"></String>
           </TextLine>
           <TextLine ID="eSc_line_90ad205c"
                     TAGREFS="LT497"
@@ -637,21 +650,6 @@
                     HEIGHT="50"
                     WC="0.9920316264033318"></String>
           </TextLine>
-          <TextLine ID="eSc_line_a56a1318"
-                    TAGREFS="LT497"
-                    BASELINE="1321 818 2394 812" 
-                    HPOS="1316"
-                    VPOS="786"
-                    WIDTH="1076"
-                    HEIGHT="50">
-            <Shape><Polygon POINTS="2368 786 1316 786 1318 836 2389 836 2392 809 2386 786 2368 786"/></Shape>
-	    <String CONTENT="trouve au bar, vide quelques verres, croque des » salt peanuts “, bavarde"
-                    HPOS="1316"
-                    VPOS="786"
-                    WIDTH="1076"
-                    HEIGHT="50"
-                    WC="0.9981115840375423"></String>
-          </TextLine>
           <TextLine ID="eSc_line_3c2abf13"
                     TAGREFS="LT497"
                     BASELINE="1319 869 2390 865" 
@@ -666,6 +664,21 @@
                     WIDTH="1073"
                     HEIGHT="53"
                     WC="0.9877705190279712"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a56a1318"
+                    TAGREFS="LT497"
+                    BASELINE="1321 818 2394 812" 
+                    HPOS="1316"
+                    VPOS="786"
+                    WIDTH="1076"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="2368 786 1316 786 1318 836 2389 836 2392 809 2386 786 2368 786"/></Shape>
+	    <String CONTENT="trouve au bar, vide quelques verres, croque des » salt peanuts “, bavarde"
+                    HPOS="1316"
+                    VPOS="786"
+                    WIDTH="1076"
+                    HEIGHT="50"
+                    WC="0.9981115840375423"></String>
           </TextLine>
           <TextLine ID="eSc_line_fdff7423"
                     TAGREFS="LT497"
@@ -877,21 +890,6 @@
                     HEIGHT="67"
                     WC="0.9840718274180954"></String>
           </TextLine>
-          <TextLine ID="eSc_line_92b81b75"
-                    TAGREFS="LT497"
-                    BASELINE="1319 1268 2014 1266 2037 1266 2392 1266" 
-                    HPOS="1318"
-                    VPOS="1239"
-                    WIDTH="1071"
-                    HEIGHT="53">
-            <Shape><Polygon POINTS="2371 1239 1318 1239 1318 1289 2342 1289 2345 1292 2389 1292 2386 1239 2371 1239"/></Shape>
-	    <String CONTENT="ot keys - (- Fats Ives » I), des » Rosetta » et &quot; The man ! love », des"
-                    HPOS="1318"
-                    VPOS="1239"
-                    WIDTH="1071"
-                    HEIGHT="53"
-                    WC="0.959006753186105"></String>
-          </TextLine>
           <TextLine ID="eSc_line_006f95fc"
                     TAGREFS="LT497"
                     BASELINE="1317 1294 2363 1294" 
@@ -906,6 +904,21 @@
                     WIDTH="1044"
                     HEIGHT="50"
                     WC="0.9771990394088584"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_92b81b75"
+                    TAGREFS="LT497"
+                    BASELINE="1319 1268 2014 1266 2037 1266 2392 1266" 
+                    HPOS="1318"
+                    VPOS="1239"
+                    WIDTH="1071"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="2371 1239 1318 1239 1318 1289 2342 1289 2345 1292 2389 1292 2386 1239 2371 1239"/></Shape>
+	    <String CONTENT="ot keys - (- Fats Ives » I), des » Rosetta » et &quot; The man ! love », des"
+                    HPOS="1318"
+                    VPOS="1239"
+                    WIDTH="1071"
+                    HEIGHT="53"
+                    WC="0.959006753186105"></String>
           </TextLine>
           <TextLine ID="eSc_line_d2142963"
                     TAGREFS="LT497"
@@ -967,6 +980,21 @@
                     HEIGHT="44"
                     WC="0.9983991686208749"></String>
           </TextLine>
+          <TextLine ID="eSc_line_5bfe69f8"
+                    TAGREFS="LT497"
+                    BASELINE="1319 1453 2394 1453" 
+                    HPOS="1318"
+                    VPOS="1429"
+                    WIDTH="1074"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="2371 1429 1318 1429 1318 1476 2392 1473 2392 1429 2371 1429"/></Shape>
+	    <String CONTENT="murs sans que la rumeur jazzo-publique ait alerté les « aficionados “ de s"
+                    HPOS="1318"
+                    VPOS="1429"
+                    WIDTH="1074"
+                    HEIGHT="47"
+                    WC="0.9704574473698934"></String>
+          </TextLine>
           <TextLine ID="eSc_line_d61a9c92"
                     TAGREFS="LT497"
                     BASELINE="1316 1428 2396 1428" 
@@ -997,20 +1025,20 @@
                     HEIGHT="67"
                     WC="0.9869041773113044"></String>
           </TextLine>
-          <TextLine ID="eSc_line_5bfe69f8"
+          <TextLine ID="eSc_line_a2925e38"
                     TAGREFS="LT497"
-                    BASELINE="1319 1453 2349 1453 2368 1453 2380 1453" 
-                    HPOS="1318"
-                    VPOS="1429"
-                    WIDTH="1059"
-                    HEIGHT="47">
-            <Shape><Polygon POINTS="2371 1429 1318 1429 1318 1476 2377 1473 2377 1429 2371 1429"/></Shape>
-	    <String CONTENT="murs sans que la rumeur jazzo-publique ait alerté les « aficionados “ de s"
-                    HPOS="1318"
-                    VPOS="1429"
-                    WIDTH="1059"
-                    HEIGHT="47"
-                    WC="0.9704574473698934"></String>
+                    BASELINE="1317 1535 2392 1531" 
+                    HPOS="1313"
+                    VPOS="1505"
+                    WIDTH="1076"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="2365 1508 1342 1508 1313 1505 1316 1555 2386 1555 2389 1528 2383 1508 2365 1508"/></Shape>
+	    <String CONTENT="tueux et charmant homme, il est paradoxalement davantage apprécié des"
+                    HPOS="1313"
+                    VPOS="1505"
+                    WIDTH="1076"
+                    HEIGHT="50"
+                    WC="0.9850372344675199"></String>
           </TextLine>
           <TextLine ID="eSc_line_2e0ac35c"
                     TAGREFS="LT497"
@@ -1026,21 +1054,6 @@
                     WIDTH="1076"
                     HEIGHT="49"
                     WC="0.9906827319752086"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_a2925e38"
-                    TAGREFS="LT497"
-                    BASELINE="1317 1535 2392 1531" 
-                    HPOS="1313"
-                    VPOS="1505"
-                    WIDTH="1076"
-                    HEIGHT="50">
-            <Shape><Polygon POINTS="2365 1508 1342 1508 1313 1505 1316 1555 2386 1555 2389 1528 2383 1508 2365 1508"/></Shape>
-	    <String CONTENT="tueux et charmant homme, il est paradoxalement davantage apprécié des"
-                    HPOS="1313"
-                    VPOS="1505"
-                    WIDTH="1076"
-                    HEIGHT="50"
-                    WC="0.9850372344675199"></String>
           </TextLine>
           <TextLine ID="eSc_line_10c39a05"
                     TAGREFS="LT497"
@@ -1320,12 +1333,11 @@
                     WIDTH="986"
                     HEIGHT="161">
             <Shape><Polygon POINTS="166 2046 166 2063 1146 2072 1149 2043 1143 1932 851 1911 848 1911 751 1935 748 1935 713 1911 710 1911 707 1911 584 1911 581 1911 579 1911 576 1911 576 1914 552 1938 412 1938 386 1914 386 1911 383 1911 380 1911 204 1911 201 1911 198 1911 195 1911 163 1932 166 2046"/></Shape>
-	    <String CONTENT="JAIZ 2 POP CENTER"
+	    <String CONTENT="JAZZ &amp; POP CENTER"
                     HPOS="163"
                     VPOS="1911"
                     WIDTH="986"
-                    HEIGHT="161"
-                    WC="0.9556689665598028"></String>
+                    HEIGHT="161"></String>
           </TextLine>
           <TextLine ID="eSc_line_08176d2f"
                     TAGREFS="LT497"
@@ -1455,12 +1467,11 @@
                     WIDTH="409"
                     HEIGHT="76">
             <Shape><Polygon POINTS="655 2385 655 2405 1061 2402 1061 2379 1052 2329 652 2335 655 2385"/></Shape>
-	    <String CONTENT="The Third Worle"
+	    <String CONTENT="The Third World"
                     HPOS="652"
                     VPOS="2329"
                     WIDTH="409"
-                    HEIGHT="76"
-                    WC="0.9717050035794575"></String>
+                    HEIGHT="76"></String>
           </TextLine>
           <TextLine ID="eSc_line_7a153299"
                     TAGREFS="LT497"

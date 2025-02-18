@@ -52,7 +52,7 @@
                     WIDTH="711"
                     HEIGHT="54">
             <Shape><Polygon POINTS="181 869 161 871 142 873 122 875 103 875 83 877 64 878 66 896 66 917 774 906 775 892 770 863 191 867 181 869"/></Shape>
-	    <String CONTENT="°7.00- 7.30 ANDORRE (300 m) : Ja zZ, par"
+	    <String CONTENT="°7.00- 7.30 ANDORRE (300 m) : Ja z z, par"
                     HPOS="64"
                     VPOS="863"
                     WIDTH="711"
@@ -2327,13 +2327,13 @@
                     WC="0.9904502749443054"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1605"
+        <TextBlock HPOS="1610"
                    VPOS="459"
-                   WIDTH="813"
-                   HEIGHT="2979"
+                   WIDTH="808"
+                   HEIGHT="2876"
                    ID="eSc_textblock_96b5a483"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="2418 3438 2418 459 1610 459 1605 3438"/></Shape>
+          <Shape><Polygon POINTS="2387 3335 2418 459 1610 459 1620 3335"/></Shape>
           <TextLine ID="eSc_line_be4d4db8"
                     TAGREFS="LT497"
                     BASELINE="1743 561 2230 561" 
@@ -3342,7 +3342,7 @@
                     VPOS="3336"
                     WIDTH="240"
                     HEIGHT="70">
-            <Shape><Polygon POINTS="2113 3369 2113 3406 2203 3404 2205 3404 2207 3404 2222 3393 2247 3402 2253 3404 2255 3404 2257 3404 2259 3404 2267 3402 2294 3393 2351 3398 2353 3369 2353 3344 2113 3336 2113 3369"/></Shape>
+            <Shape><Polygon POINTS="2113 3406 2203 3404 2205 3404 2207 3404 2222 3393 2247 3402 2253 3404 2255 3404 2257 3404 2259 3404 2267 3402 2294 3393 2351 3398 2353 3369 2353 3344 2113 3336 2113 3369"/></Shape>
 	    <String CONTENT="(Suite page 42)"
                     HPOS="2113"
                     VPOS="3336"
@@ -3365,6 +3365,22 @@
                     HEIGHT="46"
                     WC="0.999966561794281"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2068"
+                   VPOS="3344"
+                   WIDTH="357"
+                   HEIGHT="95"
+                   ID="eSc_textblock_addefbc0"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2425 3439 2425 3344 2209 3344 2068 3344 2068 3439"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="590"
+                   VPOS="435"
+                   WIDTH="423"
+                   HEIGHT="215"
+                   ID="eSc_textblock_b4c11d20"
+                   TAGREFS="BT22">
+          <Shape><Polygon POINTS="590 435 590 650 1013 650 1013 435"/></Shape>
         </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_41efab7e"

@@ -1370,10 +1370,10 @@
         <TextBlock HPOS="1268"
                    VPOS="161"
                    WIDTH="1139"
-                   HEIGHT="3221"
+                   HEIGHT="1792"
                    ID="eSc_textblock_ca1ecec1"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="1268 161 1268 3382 2407 3382 2407 161"/></Shape>
+          <Shape><Polygon POINTS="2407 161 2401 1953 1271 1953 1268 161"/></Shape>
           <TextLine ID="eSc_line_72e0f098"
                     TAGREFS="LT497"
                     BASELINE="1300 206 2386 214" 
@@ -2455,12 +2455,11 @@
                     WIDTH="1086"
                     HEIGHT="64">
             <Shape><Polygon POINTS="1292 2516 2374 2517 2378 2496 2378 2469 2355 2457 2353 2457 2351 2457 2349 2457 2347 2457 2331 2467 2056 2457 2054 2457 2015 2463 1990 2467 1926 2463 1836 2455 1834 2455 1799 2461 1768 2465 1690 2459 1641 2455 1639 2455 1637 2455 1631 2457 1616 2467 1323 2467 1296 2453 1294 2492 1292 2516"/></Shape>
-	    <String CONTENT="PrIX BORIS VIAN: PERCEPTION . « Mestart » - Le Chant du Monde"
+	    <String CONTENT="Prix BORIS VIAN: PERCEPTION . « Mestart » - Le Chant du Monde"
                     HPOS="1292"
                     VPOS="2453"
                     WIDTH="1086"
-                    HEIGHT="64"
-                    WC="0.977253788807353"></String>
+                    HEIGHT="64"></String>
           </TextLine>
           <TextLine ID="eSc_line_fe259b61"
                     TAGREFS="LT497"
@@ -2587,7 +2586,7 @@
                     WIDTH="1033"
                     HEIGHT="88">
             <Shape><Polygon POINTS="1760 2715 1731 2715 1702 2715 1672 2715 1643 2715 1614 2715 1585 2715 1555 2715 1526 2715 1497 2715 1468 2715 1438 2715 1409 2715 1380 2715 1351 2715 1321 2715 1324 2774 1324 2794 1833 2797 1848 2797 1877 2797 1877 2797 2348 2800 2354 2771 2348 2718 1760 2712 1760 2715"/></Shape>
-	    <String CONTENT="et Willie MABON « Shake that Thing » A melostace Buas an as."
+	    <String CONTENT="et Willie MABON « Shake that Thing » - 2 microsillons Black and Blue."
                     HPOS="1321"
                     VPOS="2712"
                     WIDTH="1033"
@@ -2690,12 +2689,11 @@
                     WIDTH="474"
                     HEIGHT="57">
             <Shape><Polygon POINTS="1292 3024 1292 3046 1762 3046 1764 3018 1760 2989 1290 2989 1292 3024"/></Shape>
-	    <String CONTENT="ILS ONT PUIE LEUR OMBRELLE"
+	    <String CONTENT="ILS ONT PLIE LEUR OMBRELLE"
                     HPOS="1290"
                     VPOS="2989"
                     WIDTH="474"
-                    HEIGHT="57"
-                    WC="0.9889319768318763"></String>
+                    HEIGHT="57"></String>
           </TextLine>
           <TextLine ID="eSc_line_c1093f28"
                     TAGREFS="LT497"
@@ -2720,12 +2718,11 @@
                     WIDTH="1078"
                     HEIGHT="53">
             <Shape><Polygon POINTS="1292 3108 2366 3114 2370 3096 2366 3071 1339 3071 1296 3061 1294 3092 1292 3108"/></Shape>
-	    <String CONTENT="7a ans. Né à la Nouvelle-Orléans, il appartenait à la seconde génération"
+	    <String CONTENT="74 ans. Né à la Nouvelle-Orléans, il appartenait à la seconde génération"
                     HPOS="1292"
                     VPOS="3061"
                     WIDTH="1078"
-                    HEIGHT="53"
-                    WC="0.9864563368833982"></String>
+                    HEIGHT="53"></String>
           </TextLine>
           <TextLine ID="eSc_line_24b6c67c"
                     TAGREFS="LT497"
@@ -2750,12 +2747,11 @@
                     WIDTH="1074"
                     HEIGHT="42">
             <Shape><Polygon POINTS="1294 3151 1294 3164 2366 3168 2368 3151 2368 3127 1294 3126 1294 3151"/></Shape>
-	    <String CONTENT="légendaire Papa lack Laine avant de trouver la gloire à Chicago en 1919"
+	    <String CONTENT="légendaire Papa Jack Laine avant de trouver la gloire à Chicago en 1919"
                     HPOS="1294"
                     VPOS="3126"
                     WIDTH="1074"
-                    HEIGHT="42"
-                    WC="0.9985683421566062"></String>
+                    HEIGHT="42"></String>
           </TextLine>
           <TextLine ID="eSc_line_c6f4369a"
                     TAGREFS="LT497"
@@ -2847,6 +2843,22 @@
                     HEIGHT="72"
                     WC="0.9996963739395142"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2316"
+                   VPOS="3320"
+                   WIDTH="64"
+                   HEIGHT="45"
+                   ID="eSc_textblock_029697c2"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2380 3365 2380 3320 2316 3320 2316 3365"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1275"
+                   VPOS="1990"
+                   WIDTH="1111"
+                   HEIGHT="1319"
+                   ID="eSc_textblock_ec868048"
+                   TAGREFS="BT1046">
+          <Shape><Polygon POINTS="2386 3309 2386 1990 1275 1994 1275 3309"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

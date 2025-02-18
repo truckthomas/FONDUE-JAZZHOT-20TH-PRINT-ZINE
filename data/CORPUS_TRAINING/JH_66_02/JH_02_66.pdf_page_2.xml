@@ -25,10 +25,10 @@
         <TextBlock HPOS="95"
                    VPOS="83"
                    WIDTH="797"
-                   HEIGHT="3007"
+                   HEIGHT="937"
                    ID="eSc_textblock_1f9c735a"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="95 83 117 3062 870 3090 892 83"/></Shape>
+          <Shape><Polygon POINTS="892 83 885 1020 102 1020 95 83"/></Shape>
           <TextLine ID="eSc_line_a388614f"
                     TAGREFS="LT497"
                     BASELINE="171 107 883 107" 
@@ -52,12 +52,11 @@
                     WIDTH="589"
                     HEIGHT="47">
             <Shape><Polygon POINTS="173 167 171 181 756 189 760 173 758 146 173 142 173 167"/></Shape>
-	    <String CONTENT="22.30-23.15 S.W.F. (295 m) : lazz 1965."
+	    <String CONTENT="• 22.30-23.15 S.W.F. (295 m) : Jazz 1965."
                     HPOS="171"
                     VPOS="142"
                     WIDTH="589"
-                    HEIGHT="47"
-                    WC="0.9733325029030825"></String>
+                    HEIGHT="47"></String>
           </TextLine>
           <TextLine ID="eSc_line_85273e70"
                     TAGREFS="LT497"
@@ -97,12 +96,11 @@
                     WIDTH="710"
                     HEIGHT="60">
             <Shape><Polygon POINTS="504 265 485 265 465 265 446 265 426 265 407 265 387 265 368 265 366 261 173 259 173 292 171 309 877 319 881 298 881 270 504 263 504 265"/></Shape>
-	    <String CONTENT="22022330 EUROPE I : Blues et lazz Party."
+	    <String CONTENT="• 22.02-23.30 EUROPE I : Blues et Jazz Party."
                     HPOS="171"
                     VPOS="259"
                     WIDTH="710"
-                    HEIGHT="60"
-                    WC="0.9934661716222764"></String>
+                    HEIGHT="60"></String>
           </TextLine>
           <TextLine ID="eSc_line_d7c2c4c1"
                     TAGREFS="LT497"
@@ -112,12 +110,11 @@
                     WIDTH="513"
                     HEIGHT="51">
             <Shape><Polygon POINTS="366 233 366 249 877 257 879 233 877 206 366 206 366 233"/></Shape>
-	    <String CONTENT="siques du lazz par A. Francis et"
+	    <String CONTENT="siques du Jazz par A. Francis et"
                     HPOS="366"
                     VPOS="206"
                     WIDTH="513"
-                    HEIGHT="51"
-                    WC="0.9717165566980839"></String>
+                    HEIGHT="51"></String>
           </TextLine>
           <TextLine ID="eSc_line_88db931b"
                     TAGREFS="LT497"
@@ -157,12 +154,11 @@
                     WIDTH="351"
                     HEIGHT="59">
             <Shape><Polygon POINTS="173 426 173 442 518 446 522 424 518 395 171 387 173 426"/></Shape>
-	    <String CONTENT="°700 7.18 ANDORRE."
+	    <String CONTENT="• 70.0- 7.15 ANDORRE."
                     HPOS="171"
                     VPOS="387"
                     WIDTH="351"
-                    HEIGHT="59"
-                    WC="0.98814947075314"></String>
+                    HEIGHT="59"></String>
           </TextLine>
           <TextLine ID="eSc_line_61ebd055"
                     TAGREFS="LT497"
@@ -202,12 +198,11 @@
                     WIDTH="716"
                     HEIGHT="66">
             <Shape><Polygon POINTS="167 549 165 565 232 576 233 576 639 571 653 580 655 580 657 580 658 580 879 571 881 555 877 518 736 528 625 528 616 520 614 516 612 516 610 516 608 516 584 520 543 526 278 526 274 522 265 514 263 514 261 514 259 514 167 522 167 549"/></Shape>
-	    <String CONTENT="°162417.15 BRUXELLES II (324 m) : lazz pour"
+	    <String CONTENT="• 16.24-17.15 BRUXELLES II (324 m) : Jazz pour"
                     HPOS="165"
                     VPOS="514"
                     WIDTH="716"
-                    HEIGHT="66"
-                    WC="0.9928426298984262"></String>
+                    HEIGHT="66"></String>
           </TextLine>
           <TextLine ID="eSc_line_81aedd19"
                     TAGREFS="LT497"
@@ -217,12 +212,11 @@
                     WIDTH="517"
                     HEIGHT="53">
             <Shape><Polygon POINTS="364 489 362 504 875 518 879 495 877 469 364 465 364 489"/></Shape>
-	    <String CONTENT="sique noire, lazzmen blancs, par"
+	    <String CONTENT="sique noire, Jazzmen blancs, par"
                     HPOS="362"
                     VPOS="465"
                     WIDTH="517"
-                    HEIGHT="53"
-                    WC="0.9995964244008064"></String>
+                    HEIGHT="53"></String>
           </TextLine>
           <TextLine ID="eSc_line_16af32e4"
                     TAGREFS="LT497"
@@ -247,12 +241,11 @@
                     WIDTH="718"
                     HEIGHT="59">
             <Shape><Polygon POINTS="518 586 499 586 479 586 460 586 440 584 421 584 401 584 382 584 362 582 360 580 167 578 167 613 165 635 879 637 883 619 883 590 518 582 518 586"/></Shape>
-	    <String CONTENT="° 18.15-18.30 BBC 3° Programme (464 m) : lazz"
+	    <String CONTENT="• 18.15-18.30 BBC 3e Programme (464 m) : Jazz"
                     HPOS="165"
                     VPOS="578"
                     WIDTH="718"
-                    HEIGHT="59"
-                    WC="0.9908227523167928"></String>
+                    HEIGHT="59"></String>
           </TextLine>
           <TextLine ID="eSc_line_f3f1fe82"
                     TAGREFS="LT497"
@@ -307,12 +300,11 @@
                     WIDTH="720"
                     HEIGHT="58">
             <Shape><Polygon POINTS="692 711 672 711 653 711 633 711 614 711 594 711 575 709 555 709 536 709 520 709 165 709 165 736 163 752 879 765 883 742 879 707 692 707 692 711"/></Shape>
-	    <String CONTENT="°2.102285 BRUXEILÉS !: lazz 66, jazz con¬"
+	    <String CONTENT="• 22.10-22.55 BRUXELLEES I: Jazz 66, jazz con¬"
                     HPOS="163"
                     VPOS="707"
                     WIDTH="720"
-                    HEIGHT="58"
-                    WC="0.9675447472504207"></String>
+                    HEIGHT="58"></String>
           </TextLine>
           <TextLine ID="eSc_line_596f61a0"
                     TAGREFS="LT497"
@@ -382,12 +374,11 @@
                     WIDTH="261"
                     HEIGHT="43">
             <Shape><Polygon POINTS="368 834 366 847 623 849 627 836 625 810 368 806 368 834"/></Shape>
-	    <String CONTENT="veautés du lazz =."
+	    <String CONTENT="veautés du Jazz ."
                     HPOS="366"
                     VPOS="806"
                     WIDTH="261"
-                    HEIGHT="43"
-                    WC="0.9958946453897577"></String>
+                    HEIGHT="43"></String>
           </TextLine>
           <TextLine ID="eSc_line_caf8e119"
                     TAGREFS="LT497"
@@ -397,12 +388,11 @@
                     WIDTH="679"
                     HEIGHT="64">
             <Shape><Polygon POINTS="165 925 163 949 462 958 464 958 510 949 518 949 526 949 565 958 567 958 606 949 612 949 618 949 651 960 653 960 655 960 657 960 658 960 674 951 703 960 705 960 707 960 840 949 842 931 840 904 165 896 165 925"/></Shape>
-	    <String CONTENT="&quot;22022330 EUROPE !: Blues et lazz Party."
+	    <String CONTENT="• 23.02-23.30 EUROPE I: Blues et Jazz Party."
                     HPOS="163"
                     VPOS="896"
                     WIDTH="679"
-                    HEIGHT="64"
-                    WC="0.9637405872344971"></String>
+                    HEIGHT="64"></String>
           </TextLine>
           <TextLine ID="eSc_line_bdf7344f"
                     TAGREFS="LT497"
@@ -682,12 +672,11 @@
                     WIDTH="513"
                     HEIGHT="50">
             <Shape><Polygon POINTS="352 2693 352 2716 865 2712 865 2693 863 2666 352 2666 352 2693"/></Shape>
-	    <String CONTENT="grands solistes du lazz par Henri"
+	    <String CONTENT="grands solistes du Jazz par Henri"
                     HPOS="352"
                     VPOS="2666"
                     WIDTH="513"
-                    HEIGHT="50"
-                    WC="0.9946713989431207"></String>
+                    HEIGHT="50"></String>
           </TextLine>
           <TextLine ID="eSc_line_54b831ed"
                     TAGREFS="LT497"
@@ -727,12 +716,11 @@
                     WIDTH="305"
                     HEIGHT="47">
             <Shape><Polygon POINTS="352 2786 352 2806 653 2806 655 2784 651 2763 350 2759 352 2786"/></Shape>
-	    <String CONTENT="lazz, par Eric Brooke."
+	    <String CONTENT="Jazz, par Eric Brooke."
                     HPOS="350"
                     VPOS="2759"
                     WIDTH="305"
-                    HEIGHT="47"
-                    WC="0.9602541327476501"></String>
+                    HEIGHT="47"></String>
           </TextLine>
           <TextLine ID="eSc_line_88c7d532"
                     TAGREFS="LT497"
@@ -742,12 +730,11 @@
                     WIDTH="713"
                     HEIGHT="54">
             <Shape><Polygon POINTS="641 2786 621 2786 602 2786 582 2786 563 2786 543 2786 524 2786 504 2786 485 2786 465 2786 446 2786 426 2786 407 2786 387 2786 368 2786 366 2783 154 2783 154 2812 152 2827 861 2837 865 2818 861 2783 643 2783 641 2786"/></Shape>
-	    <String CONTENT="180-1830 O.R.T.F. - ST-QUENTIN et AMIENS"
+	    <String CONTENT="18.08-18.30 O.R.T.F. - ST-QUENTIN et AMIENS"
                     HPOS="152"
                     VPOS="2783"
                     WIDTH="713"
-                    HEIGHT="54"
-                    WC="0.9834034383296967"></String>
+                    HEIGHT="54"></String>
           </TextLine>
           <TextLine ID="eSc_line_3a4191b8"
                     TAGREFS="LT497"
@@ -757,12 +744,11 @@
                     WIDTH="513"
                     HEIGHT="51">
             <Shape><Polygon POINTS="350 2849 350 2872 859 2870 861 2847 857 2825 348 2821 350 2849"/></Shape>
-	    <String CONTENT="G18 m) : lazz Galerie, par B. Ni¬"
+	    <String CONTENT="(218 m) : Jazz Galerie, par B. Ni¬"
                     HPOS="348"
                     VPOS="2821"
                     WIDTH="513"
-                    HEIGHT="51"
-                    WC="0.9931296236587294"></String>
+                    HEIGHT="51"></String>
           </TextLine>
           <TextLine ID="eSc_line_c2864760"
                     TAGREFS="LT497"
@@ -787,12 +773,11 @@
                     WIDTH="523"
                     HEIGHT="57">
             <Shape><Polygon POINTS="393 2880 374 2880 354 2880 193 2880 161 2870 159 2907 157 2925 676 2927 680 2909 676 2880 413 2880 393 2880"/></Shape>
-	    <String CONTENT=".183014S0 FILVERSUM I (4o2 m)."
+	    <String CONTENT=".18.30-18.50 HILVERSUM I (402 m)."
                     HPOS="157"
                     VPOS="2870"
                     WIDTH="523"
-                    HEIGHT="57"
-                    WC="0.921619309981664"></String>
+                    HEIGHT="57"></String>
           </TextLine>
           <TextLine ID="eSc_line_3765c603"
                     TAGREFS="LT497"
@@ -802,12 +787,11 @@
                     WIDTH="713"
                     HEIGHT="68">
             <Shape><Polygon POINTS="863 2915 155 2909 155 2940 154 2974 304 2975 306 2975 308 2975 310 2975 310 2974 321 2962 382 2958 604 2962 635 2974 645 2977 647 2977 649 2977 651 2977 658 2974 697 2960 863 2974 867 2944 865 2936 863 2915"/></Shape>
-	    <String CONTENT="°2122.00 SARREBRUCK (ll m) : Le coin"
+	    <String CONTENT="°21.25-22.00 SARREBRUCK (211 m) : Le coin"
                     HPOS="154"
                     VPOS="2909"
                     WIDTH="713"
-                    HEIGHT="68"
-                    WC="0.9590733879142337"></String>
+                    HEIGHT="68"></String>
           </TextLine>
           <TextLine ID="eSc_line_9a87ca4d"
                     TAGREFS="LT497"
@@ -817,35 +801,34 @@
                     WIDTH="121"
                     HEIGHT="53">
             <Shape><Polygon POINTS="350 2975 350 2993 467 2999 469 2972 465 2948 348 2946 350 2975"/></Shape>
-	    <String CONTENT="du lazz."
+	    <String CONTENT="du Jazz."
                     HPOS="348"
                     VPOS="2946"
                     WIDTH="121"
-                    HEIGHT="53"
-                    WC="0.999468557536602"></String>
+                    HEIGHT="53"></String>
           </TextLine>
           <TextLine ID="eSc_line_8b824ad9"
                     TAGREFS="LT497"
                     BASELINE="146 3032 212 3028" 
                     HPOS="144"
                     VPOS="2995"
-                    WIDTH="76"
-                    HEIGHT="224">
-            <Shape><Polygon POINTS="146 3032 154 3209 179 3219 181 3219 183 3219 185 3219 220 3205 212 3028 206 2995 144 2999 146 3032"/></Shape>
-	    <String CONTENT=""
+                    WIDTH="68"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="157 3068 171 3068 176 3078 193 3078 195 3058 205 3061 212 3028 206 2995 144 2999 146 3032"/></Shape>
+	    <String CONTENT="36"
                     HPOS="144"
                     VPOS="2995"
-                    WIDTH="76"
-                    HEIGHT="224"></String>
+                    WIDTH="68"
+                    HEIGHT="83"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="915"
                    VPOS="55"
-                   WIDTH="757"
-                   HEIGHT="2979"
+                   WIDTH="753"
+                   HEIGHT="981"
                    ID="eSc_textblock_f4361218"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="915 55 937 3034 1672 3029 1666 55"/></Shape>
+          <Shape><Polygon POINTS="1666 55 1668 1036 922 1036 915 55"/></Shape>
           <TextLine ID="eSc_line_f81ee487"
                     TAGREFS="LT497"
                     BASELINE="961 109 1590 111" 
@@ -854,12 +837,11 @@
                     WIDTH="631"
                     HEIGHT="43">
             <Shape><Polygon POINTS="1583 85 1563 85 1544 85 1524 85 1505 85 1485 85 1466 85 1446 85 1427 85 1407 85 1388 85 1368 85 1349 85 1329 85 1310 85 1290 85 1271 85 1251 85 1232 85 1212 85 1193 85 1173 85 1154 85 1134 85 1115 85 1095 85 1076 85 1056 85 1037 85 1017 85 998 85 978 85 961 85 961 109 959 126 1587 128 1590 111 1588 85 1583 85"/></Shape>
-	    <String CONTENT="22.00-22.30 BRUXELLES III : lazz podium."
+	    <String CONTENT="22.00-22.30 BRUXELLES III : Jazz podium."
                     HPOS="959"
                     VPOS="85"
                     WIDTH="631"
-                    HEIGHT="43"
-                    WC="0.9984780609607696"></String>
+                    HEIGHT="43"></String>
           </TextLine>
           <TextLine ID="eSc_line_0cbe344d"
                     TAGREFS="LT497"
@@ -884,12 +866,11 @@
                     WIDTH="713"
                     HEIGHT="53">
             <Shape><Polygon POINTS="957 202 955 228 1666 228 1668 208 1666 181 957 175 957 202"/></Shape>
-	    <String CONTENT="°22.10-22.55 BRUXELLES ! : lazz 66 par A."
+	    <String CONTENT="°22.10-22.55 BRUXELLES I : Jazz 66 par A."
                     HPOS="955"
                     VPOS="175"
                     WIDTH="713"
-                    HEIGHT="53"
-                    WC="0.9524283060213414"></String>
+                    HEIGHT="53"></String>
           </TextLine>
           <TextLine ID="eSc_line_a77c9051"
                     TAGREFS="LT497"
@@ -899,12 +880,11 @@
                     WIDTH="218"
                     HEIGHT="46">
             <Shape><Polygon POINTS="1152 173 1152 196 1370 196 1370 173 1370 150 1152 150 1152 173"/></Shape>
-	    <String CONTENT="monde du lazz."
+	    <String CONTENT="monde du Jazz."
                     HPOS="1152"
                     VPOS="150"
                     WIDTH="218"
-                    HEIGHT="46"
-                    WC="0.9902033124651227"></String>
+                    HEIGHT="46"></String>
           </TextLine>
           <TextLine ID="eSc_line_5db3d011"
                     TAGREFS="LT497"
@@ -944,12 +924,11 @@
                     WIDTH="715"
                     HEIGHT="52">
             <Shape><Polygon POINTS="953 327 951 352 1665 352 1666 333 1665 302 953 300 953 327"/></Shape>
-	    <String CONTENT="&quot;22.35-23.15 SOTTENS : Actualités du lazz, par"
+	    <String CONTENT="&quot;22.35-23.15 SOTTENS : Actualités du Jazz, par"
                     HPOS="951"
                     VPOS="300"
                     WIDTH="715"
-                    HEIGHT="52"
-                    WC="0.9724181643191804"></String>
+                    HEIGHT="52"></String>
           </TextLine>
           <TextLine ID="eSc_line_cb216b7f"
                     TAGREFS="LT497"
@@ -959,12 +938,11 @@
                     WIDTH="425"
                     HEIGHT="47">
             <Shape><Polygon POINTS="1152 298 1152 315 1575 317 1577 298 1577 272 1152 270 1152 298"/></Shape>
-	    <String CONTENT="Discothèque, par I.-M. Masse."
+	    <String CONTENT="Discothèque, par J.-M. Masse."
                     HPOS="1152"
                     VPOS="270"
                     WIDTH="425"
-                    HEIGHT="47"
-                    WC="0.9995577037334442"></String>
+                    HEIGHT="47"></String>
           </TextLine>
           <TextLine ID="eSc_line_a4b5cd03"
                     TAGREFS="LT497"
@@ -974,12 +952,11 @@
                     WIDTH="708"
                     HEIGHT="63">
             <Shape><Polygon POINTS="1290 362 1271 362 1251 362 1232 362 1212 362 1193 362 1173 362 1154 362 1148 354 959 352 959 389 957 401 1661 415 1665 395 1663 362 1292 356 1290 362"/></Shape>
-	    <String CONTENT="e vers 2220 O.R.T.F. - FRANCE-INTER : - Les"
+	    <String CONTENT="• vers 22.20 O.R.T.F. - FRANCE-INTER : - Les"
                     HPOS="957"
                     VPOS="352"
                     WIDTH="708"
-                    HEIGHT="63"
-                    WC="0.9762846314629843"></String>
+                    HEIGHT="63"></String>
           </TextLine>
           <TextLine ID="eSc_line_871634f6"
                     TAGREFS="LT497"
@@ -1004,12 +981,11 @@
                     WIDTH="704"
                     HEIGHT="49">
             <Shape><Polygon POINTS="959 456 957 467 1657 475 1661 457 1659 428 959 426 959 456"/></Shape>
-	    <String CONTENT="23.35-24.00 O.R.T.F. - STRASBOURG (258 m):"
+	    <String CONTENT="• 23.35-24.00 O.R.T.F. - STRASBOURG (258 m):"
                     HPOS="957"
                     VPOS="426"
                     WIDTH="704"
-                    HEIGHT="49"
-                    WC="0.9888002219654265"></String>
+                    HEIGHT="49"></String>
           </TextLine>
           <TextLine ID="eSc_line_c18c96a9"
                     TAGREFS="LT497"
@@ -1034,12 +1010,11 @@
                     WIDTH="712"
                     HEIGHT="48">
             <Shape><Polygon POINTS="953 514 951 535 1661 533 1663 520 1663 493 953 487 953 514"/></Shape>
-	    <String CONTENT="°22.45-23.30 HAMBOURG · COLOGNE (309 m):"
+	    <String CONTENT="• 22.45-23.30 HAMBOURG · COLOGNE (309 m):"
                     HPOS="951"
                     VPOS="487"
                     WIDTH="712"
-                    HEIGHT="48"
-                    WC="0.9941091686487198"></String>
+                    HEIGHT="48"></String>
           </TextLine>
           <TextLine ID="eSc_line_60b885ac"
                     TAGREFS="LT497"
@@ -1049,12 +1024,11 @@
                     WIDTH="339"
                     HEIGHT="49">
             <Shape><Polygon POINTS="1152 485 1152 506 1491 506 1491 485 1491 461 1152 457 1152 485"/></Shape>
-	    <String CONTENT="Le lazz, par L. Fritsch."
+	    <String CONTENT="Le Jazz, par L. Fritsch."
                     HPOS="1152"
                     VPOS="457"
                     WIDTH="339"
-                    HEIGHT="49"
-                    WC="0.9971008623639742"></String>
+                    HEIGHT="49"></String>
           </TextLine>
           <TextLine ID="eSc_line_d7d14ec5"
                     TAGREFS="LT497"
@@ -1064,27 +1038,25 @@
                     WIDTH="659"
                     HEIGHT="59">
             <Shape><Polygon POINTS="1169 547 1150 547 1148 545 955 539 955 574 953 592 1608 596 1612 578 1606 541 1588 549 1571 541 1561 537 1559 537 1423 537 1421 537 1419 537 1417 537 1413 541 1403 547 1343 541 1341 541 1286 551 1175 547 1169 547"/></Shape>
-	    <String CONTENT="☙23.02-23.30 EUROPE 1 : Blues et lazz Party."
+	    <String CONTENT="• 23.02-23.30 EUROPE I : Blues et Jazz Party."
                     HPOS="953"
                     VPOS="537"
                     WIDTH="659"
-                    HEIGHT="59"
-                    WC="0.9870664423162286"></String>
+                    HEIGHT="59"></String>
           </TextLine>
-          <TextLine ID="eSc_line_4e1004de"
+          <TextLine ID="eSc_line_3e104d01"
                     TAGREFS="LT497"
-                    BASELINE="959 611 1080 610" 
-                    HPOS="957"
-                    VPOS="582"
-                    WIDTH="123"
-                    HEIGHT="51">
-            <Shape><Polygon POINTS="959 611 961 633 990 621 1006 629 1011 631 1013 631 1015 631 1078 619 1080 610 1076 584 957 582 959 611"/></Shape>
-	    <String CONTENT="° 0.15"
-                    HPOS="957"
-                    VPOS="582"
-                    WIDTH="123"
-                    HEIGHT="51"
-                    WC="0.9967989027500153"></String>
+                    BASELINE="959 611 1080 610 1136 610 1666 613" 
+                    HPOS="953"
+                    VPOS="570"
+                    WIDTH="711"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1596 575 1567 575 1538 575 1509 575 1479 575 1450 575 1421 575 1392 575 1362 575 1333 575 1304 575 1275 575 1245 575 1216 575 1187 575 1158 575 1128 575 1099 575 1070 575 1041 575 1011 575 982 575 956 575 956 610 953 640 1155 640 1158 637 1187 637 1216 637 1245 637 1275 637 1304 637 1333 637 1362 637 1392 637 1421 637 1450 637 1479 637 1509 637 1538 637 1567 637 1570 640 1661 640 1664 610 1661 570 1596 570 1596 575"/></Shape>
+	    <String CONTENT="• 0.15 BBC Home Service (330 m) : lazz"
+                    HPOS="953"
+                    VPOS="570"
+                    WIDTH="711"
+                    HEIGHT="70"></String>
           </TextLine>
           <TextLine ID="eSc_line_19fb2b81"
                     TAGREFS="LT497"
@@ -1094,12 +1066,11 @@
                     WIDTH="150"
                     HEIGHT="45">
             <Shape><Polygon POINTS="1148 547 1148 565 1292 567 1296 545 1290 522 1146 522 1148 547"/></Shape>
-	    <String CONTENT="lazz Club."
+	    <String CONTENT="Jazz Club."
                     HPOS="1146"
                     VPOS="522"
                     WIDTH="150"
-                    HEIGHT="45"
-                    WC="0.9999448478221893"></String>
+                    HEIGHT="45"></String>
           </TextLine>
           <TextLine ID="eSc_line_c751b5ee"
                     TAGREFS="LT497"
@@ -1115,21 +1086,6 @@
                     WIDTH="712"
                     HEIGHT="56"
                     WC="0.9711429270960036"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_aafcaed0"
-                    TAGREFS="LT497"
-                    BASELINE="1136 610 1666 613" 
-                    HPOS="1134"
-                    VPOS="584"
-                    WIDTH="532"
-                    HEIGHT="41">
-            <Shape><Polygon POINTS="1136 610 1134 621 1663 625 1666 613 1666 588 1136 584 1136 610"/></Shape>
-	    <String CONTENT="BBC Home Service (330 m) : lazz"
-                    HPOS="1134"
-                    VPOS="584"
-                    WIDTH="532"
-                    HEIGHT="41"
-                    WC="0.9993666987265309"></String>
           </TextLine>
           <TextLine ID="eSc_line_762d99f9"
                     TAGREFS="LT497"
@@ -1199,12 +1155,11 @@
                     WIDTH="718"
                     HEIGHT="66">
             <Shape><Polygon POINTS="1317 869 1298 869 1278 869 1259 869 1240 869 1220 869 1201 869 1181 869 1162 869 1158 863 1082 863 1080 863 1076 863 1025 871 947 861 947 898 945 921 988 915 1105 925 1124 925 1126 925 1128 925 1132 925 1165 915 1220 925 1238 927 1240 927 1261 925 1321 917 1355 925 1362 927 1364 927 1366 927 1661 925 1663 904 1661 877 1329 869 1317 869"/></Shape>
-	    <String CONTENT="° 14.00-14.30 BEROMUNSTER (S67 m) : lazz et"
+	    <String CONTENT="° 14.00-14.30 BEROMUNSTER (S67 m) : Jazz et"
                     HPOS="945"
                     VPOS="861"
                     WIDTH="718"
-                    HEIGHT="66"
-                    WC="0.9805572587390279"></String>
+                    HEIGHT="66"></String>
           </TextLine>
           <TextLine ID="eSc_line_ace33cbc"
                     TAGREFS="LT497"
@@ -1244,12 +1199,11 @@
                     WIDTH="641"
                     HEIGHT="136">
             <Shape><Polygon POINTS="1234 1221 1214 1218 1204 1214 746 1208 744 1208 742 1208 740 1208 719 1221 680 1210 678 1210 676 1210 610 1223 612 1307 612 1344 639 1344 639 1342 641 1342 643 1342 643 1340 658 1325 738 1325 777 1340 779 1340 781 1342 852 1342 852 1340 853 1340 855 1340 855 1338 881 1323 935 1338 939 1338 941 1338 943 1338 945 1338 947 1338 967 1327 1041 1336 1048 1336 1050 1336 1058 1336 1132 1321 1175 1334 1179 1334 1181 1334 1183 1334 1191 1334 1230 1325 1247 1333 1251 1297 1247 1223 1234 1221"/></Shape>
-	    <String CONTENT="progrummes"
+	    <String CONTENT="programmes"
                     HPOS="610"
                     VPOS="1208"
                     WIDTH="641"
-                    HEIGHT="136"
-                    WC="0.9998756527900696"></String>
+                    HEIGHT="136"></String>
           </TextLine>
           <TextLine ID="eSc_line_22359a41"
                     TAGREFS="LT497"
@@ -1259,12 +1213,11 @@
                     WIDTH="449"
                     HEIGHT="146">
             <Shape><Polygon POINTS="709 1461 709 1488 813 1479 906 1488 930 1490 931 1490 949 1488 1000 1481 1050 1488 1074 1490 1076 1490 1078 1490 1084 1488 1101 1479 1156 1487 1158 1461 1158 1377 1085 1344 1084 1344 1025 1344 1023 1344 1021 1344 953 1370 935 1375 914 1368 904 1366 902 1366 900 1366 898 1366 896 1366 894 1368 879 1379 801 1375 789 1364 772 1346 772 1344 770 1344 768 1344 766 1344 764 1344 709 1358 709 1461"/></Shape>
-	    <String CONTENT="de rudio"
+	    <String CONTENT="de radio"
                     HPOS="709"
                     VPOS="1344"
                     WIDTH="449"
-                    HEIGHT="146"
-                    WC="0.9979367926716805"></String>
+                    HEIGHT="146"></String>
           </TextLine>
           <TextLine ID="eSc_line_05d7a8ec"
                     TAGREFS="LT497"
@@ -1274,12 +1227,11 @@
                     WIDTH="589"
                     HEIGHT="138">
             <Shape><Polygon POINTS="637 1623 639 1654 672 1642 793 1650 842 1654 844 1654 1226 1640 1226 1623 1226 1539 1199 1539 1199 1537 1169 1516 1167 1516 1165 1516 1163 1516 1162 1516 1105 1537 1103 1537 1095 1537 1017 1527 1015 1527 1013 1527 982 1535 976 1537 974 1535 951 1516 949 1516 947 1516 945 1516 824 1535 801 1539 750 1539 744 1533 721 1516 719 1516 717 1516 715 1516 637 1531 637 1623"/></Shape>
-	    <String CONTENT="et cuburets"
+	    <String CONTENT="et cabarets"
                     HPOS="637"
                     VPOS="1516"
                     WIDTH="589"
-                    HEIGHT="138"
-                    WC="0.9991286180236123"></String>
+                    HEIGHT="138"></String>
           </TextLine>
           <TextLine ID="eSc_line_5a251c89"
                     TAGREFS="LT497"
@@ -1364,12 +1316,11 @@
                     WIDTH="513"
                     HEIGHT="49">
             <Shape><Polygon POINTS="1138 2241 1138 2264 1651 2264 1651 2241 1649 2215 1138 2215 1138 2241"/></Shape>
-	    <String CONTENT="A. Francis ou - lazz s’il vous"
+	    <String CONTENT="A. Francis ou - Jazz s’il vous"
                     HPOS="1138"
                     VPOS="2215"
                     WIDTH="513"
-                    HEIGHT="49"
-                    WC="0.9932887971401214"></String>
+                    HEIGHT="49"></String>
           </TextLine>
           <TextLine ID="eSc_line_a676ec9b"
                     TAGREFS="LT497"
@@ -1439,12 +1390,11 @@
                     WIDTH="716"
                     HEIGHT="55">
             <Shape><Polygon POINTS="941 2443 939 2461 1651 2473 1655 2449 1653 2424 941 2418 941 2443"/></Shape>
-	    <String CONTENT="° 21-45-22.30 SOITENS. Europe lazz, par G. Vou¬"
+	    <String CONTENT="° 21-45-22.30 SOITENS. Europe Jazz, par G. Vou¬"
                     HPOS="939"
                     VPOS="2418"
                     WIDTH="716"
-                    HEIGHT="55"
-                    WC="0.9919849380533746"></String>
+                    HEIGHT="55"></String>
           </TextLine>
           <TextLine ID="eSc_line_a3e0a190"
                     TAGREFS="LT497"
@@ -1469,12 +1419,11 @@
                     WIDTH="716"
                     HEIGHT="51">
             <Shape><Polygon POINTS="939 2514 937 2529 1649 2533 1653 2517 1649 2482 939 2484 939 2514"/></Shape>
-	    <String CONTENT="23.0023.85 BRUXELLES ! : lazz 66 décomposé"
+	    <String CONTENT="23.00-23.55 BRUXELLES I : Jazz 66 décomposé"
                     HPOS="937"
                     VPOS="2482"
                     WIDTH="716"
-                    HEIGHT="51"
-                    WC="0.9759601164947856"></String>
+                    HEIGHT="51"></String>
           </TextLine>
           <TextLine ID="eSc_line_7b70afb5"
                     TAGREFS="LT497"
@@ -1499,12 +1448,11 @@
                     WIDTH="671"
                     HEIGHT="52">
             <Shape><Polygon POINTS="939 2617 937 2636 1604 2638 1608 2623 1604 2586 939 2586 939 2617"/></Shape>
-	    <String CONTENT="23.02-23.30 EUROPE ! : Blues et lazz Party."
+	    <String CONTENT="23.02-23.30 EUROPE I : Blues et Jazz Party."
                     HPOS="937"
                     VPOS="2586"
                     WIDTH="671"
-                    HEIGHT="52"
-                    WC="0.9523955569710842"></String>
+                    HEIGHT="52"></String>
           </TextLine>
           <TextLine ID="eSc_line_6cac4f25"
                     TAGREFS="LT497"
@@ -1559,12 +1507,11 @@
                     WIDTH="474"
                     HEIGHT="54">
             <Shape><Polygon POINTS="1134 2689 1132 2716 1602 2718 1606 2693 1602 2664 1134 2664 1134 2689"/></Shape>
-	    <String CONTENT="naître le lazz », par L. Malson."
+	    <String CONTENT="naître le Jazz », par L. Malson."
                     HPOS="1132"
                     VPOS="2664"
                     WIDTH="474"
-                    HEIGHT="54"
-                    WC="0.9987994811751626"></String>
+                    HEIGHT="54"></String>
           </TextLine>
           <TextLine ID="eSc_line_51b9d1a2"
                     TAGREFS="LT497"
@@ -1574,12 +1521,11 @@
                     WIDTH="708"
                     HEIGHT="55">
             <Shape><Polygon POINTS="1645 2779 1641 2759 943 2751 943 2788 941 2806 1647 2804 1649 2790 1647 2786 1645 2779"/></Shape>
-	    <String CONTENT="O GIL&#x27;S CLUB, 7, rue Sainte-Croix-de-la-Breton¬"
+	    <String CONTENT="• GIL&#x27;S CLUB, 7, rue Sainte-Croix-de-la-Breton¬"
                     HPOS="941"
                     VPOS="2751"
                     WIDTH="708"
-                    HEIGHT="55"
-                    WC="0.9776562629862035"></String>
+                    HEIGHT="55"></String>
           </TextLine>
           <TextLine ID="eSc_line_99aecde8"
                     TAGREFS="LT497"
@@ -1687,12 +1633,11 @@
                     WIDTH="703"
                     HEIGHT="47">
             <Shape><Polygon POINTS="2444 99 2425 99 2405 99 2386 99 2366 99 2347 97 2327 97 2308 97 2288 97 2269 97 2249 95 2230 95 2210 95 2191 95 2171 93 2152 93 2132 93 2113 93 2093 93 2074 91 2054 91 2035 91 2015 91 1996 91 1976 89 1957 89 1937 89 1918 89 1898 87 1879 87 1860 87 1840 87 1821 87 1801 85 1782 85 1762 85 1744 85 1744 111 1743 126 2442 132 2446 113 2444 99 2444 99"/></Shape>
-	    <String CONTENT="O LA VIEILLE GRILLE, 1, rue du Pults-de-l’Ermite."
+	    <String CONTENT="• LA VIEILLE GRILLE, 1, rue du Puits-de-l’Ermite."
                     HPOS="1743"
                     VPOS="85"
                     WIDTH="703"
-                    HEIGHT="47"
-                    WC="0.991516461177748"></String>
+                    HEIGHT="47"></String>
           </TextLine>
           <TextLine ID="eSc_line_7152191a"
                     TAGREFS="LT497"
@@ -1747,12 +1692,11 @@
                     WIDTH="703"
                     HEIGHT="54">
             <Shape><Polygon POINTS="1744 253 1743 268 2442 272 2446 255 2444 226 1744 218 1744 253"/></Shape>
-	    <String CONTENT="O BLUES JAZZ MUSEUM, 7, rue des Deux-Ponts"
+	    <String CONTENT="• BLUES JAZZ MUSEUM, 7, rue des Deux-Ponts"
                     HPOS="1743"
                     VPOS="218"
                     WIDTH="703"
-                    HEIGHT="54"
-                    WC="0.9871898222537268"></String>
+                    HEIGHT="54"></String>
           </TextLine>
           <TextLine ID="eSc_line_a68ba52f"
                     TAGREFS="LT497"
@@ -1912,12 +1856,11 @@
                     WIDTH="711"
                     HEIGHT="53">
             <Shape><Polygon POINTS="1737 610 1735 629 2442 631 2446 615 2446 586 1737 578 1737 610"/></Shape>
-	    <String CONTENT="O LIVING-ROOM, 25, rue du Colisée. Ely. 25-29"
+	    <String CONTENT="• LIVING-ROOM, 25, rue du Colisée. Ely. 25-29"
                     HPOS="1735"
                     VPOS="578"
                     WIDTH="711"
-                    HEIGHT="53"
-                    WC="0.9620999740229712"></String>
+                    HEIGHT="53"></String>
           </TextLine>
           <TextLine ID="eSc_line_1a3aac9e"
                     TAGREFS="LT497"
@@ -2002,12 +1945,11 @@
                     WIDTH="703"
                     HEIGHT="59">
             <Shape><Polygon POINTS="1743 814 1741 834 2441 836 2444 820 2442 793 2232 793 2224 787 2201 777 2199 777 2197 777 2129 785 2111 787 1743 779 1743 814"/></Shape>
-	    <String CONTENT="O LE REQUIN CHAGRIN, Place de la Contres¬"
+	    <String CONTENT="• LE REQUIN CHAGRIN, Place de la Contres¬"
                     HPOS="1741"
                     VPOS="777"
                     WIDTH="703"
-                    HEIGHT="59"
-                    WC="0.9722711182222133"></String>
+                    HEIGHT="59"></String>
           </TextLine>
           <TextLine ID="eSc_line_81b58cb4"
                     TAGREFS="LT497"
@@ -2077,12 +2019,11 @@
                     WIDTH="711"
                     HEIGHT="47">
             <Shape><Polygon POINTS="1735 990 1733 1005 2442 1005 2444 991 2442 960 1735 958 1735 990"/></Shape>
-	    <String CONTENT="O LE SLOW CLUB, 130, rue de Rivoli. Gut. 84-30"
+	    <String CONTENT="• LE SLOW CLUB, 130, rue de Rivoli. Gut. 84-30"
                     HPOS="1733"
                     VPOS="958"
                     WIDTH="711"
-                    HEIGHT="47"
-                    WC="0.9827475004725986"></String>
+                    HEIGHT="47"></String>
           </TextLine>
           <TextLine ID="eSc_line_39af4612"
                     TAGREFS="LT497"
@@ -2152,12 +2093,11 @@
                     WIDTH="716"
                     HEIGHT="49">
             <Shape><Polygon POINTS="1727 1142 1725 1157 2437 1163 2441 1147 2439 1122 1727 1114 1727 1142"/></Shape>
-	    <String CONTENT="ses N.O. Stompers (L. Farkas, E. Bernard, Coolle,"
+	    <String CONTENT="ses N.O. Stompers (L. Farkas, E. Bernard, Coolie,"
                     HPOS="1725"
                     VPOS="1114"
                     WIDTH="716"
-                    HEIGHT="49"
-                    WC="0.992691136136347"></String>
+                    HEIGHT="49"></String>
           </TextLine>
           <TextLine ID="eSc_line_5729d03c"
                     TAGREFS="LT497"
@@ -2212,12 +2152,11 @@
                     WIDTH="698"
                     HEIGHT="51">
             <Shape><Polygon POINTS="1737 1288 1737 1307 2433 1309 2435 1288 2435 1258 1737 1258 1737 1288"/></Shape>
-	    <String CONTENT="O TROIS MAILLETZ, 56, rue Galande (Se). Odé."
+	    <String CONTENT="• TROIS MAILLETZ, 56, rue Galande (Se). Odé."
                     HPOS="1737"
                     VPOS="1258"
                     WIDTH="698"
-                    HEIGHT="51"
-                    WC="0.9967127336396111"></String>
+                    HEIGHT="51"></String>
           </TextLine>
           <TextLine ID="eSc_line_5ea07ea6"
                     TAGREFS="LT497"
@@ -2317,12 +2256,11 @@
                     WIDTH="702"
                     HEIGHT="56">
             <Shape><Polygon POINTS="1731 1522 1731 1543 2433 1539 2433 1522 2433 1487 1731 1487 1731 1522"/></Shape>
-	    <String CONTENT="O LA PAILLOTE (Discothèque de jazz non dan¬"
+	    <String CONTENT="• LA PAILLOTE (Discothèque de jazz non dan¬"
                     HPOS="1731"
                     VPOS="1487"
                     WIDTH="702"
-                    HEIGHT="56"
-                    WC="0.9766308462077921"></String>
+                    HEIGHT="56"></String>
           </TextLine>
           <TextLine ID="eSc_line_13453902"
                     TAGREFS="LT497"
@@ -2362,12 +2300,11 @@
                     WIDTH="706"
                     HEIGHT="60">
             <Shape><Polygon POINTS="1731 1640 1731 1660 2437 1656 2437 1640 2437 1613 2359 1601 2357 1601 2355 1601 2353 1601 2341 1611 2339 1613 2170 1613 2162 1609 2144 1600 2142 1600 1967 1600 1965 1600 1963 1600 1961 1600 1953 1605 1947 1611 1932 1605 1914 1600 1912 1600 1910 1600 1908 1600 1906 1600 1900 1605 1893 1611 1875 1605 1860 1600 1858 1600 1856 1600 1830 1603 1789 1611 1731 1603 1731 1640"/></Shape>
-	    <String CONTENT="☙CAVEAU DE LA RUCHETTE. - Club Universt¬"
+	    <String CONTENT="• CAVEAU DE LA HUCHETTE. - Club Universt¬"
                     HPOS="1731"
                     VPOS="1600"
                     WIDTH="706"
-                    HEIGHT="60"
-                    WC="0.9818106919527054"></String>
+                    HEIGHT="60"></String>
           </TextLine>
           <TextLine ID="eSc_line_866cecd8"
                     TAGREFS="LT497"
@@ -2436,12 +2373,11 @@
                     WIDTH="706"
                     HEIGHT="52">
             <Shape><Polygon POINTS="1729 1818 1727 1833 2429 1835 2433 1820 2431 1789 1729 1783 1729 1818"/></Shape>
-	    <String CONTENT="O CHAT QUI PECHE, 4, rue de la Huchette. Dan."
+	    <String CONTENT="• CHAT QUI PECHE, 4, rue de la Huchette. Dan."
                     HPOS="1727"
                     VPOS="1783"
                     WIDTH="706"
-                    HEIGHT="52"
-                    WC="0.99380521774292"></String>
+                    HEIGHT="52"></String>
           </TextLine>
           <TextLine ID="eSc_line_750dea92"
                     TAGREFS="LT497"
@@ -2511,12 +2447,11 @@
                     WIDTH="704"
                     HEIGHT="59">
             <Shape><Polygon POINTS="1729 2013 2429 2017 2433 1999 2429 1966 1754 1968 1733 1958 1731 1997 1729 2013"/></Shape>
-	    <String CONTENT="O CAMELEON, 57, rue Saint-André-des-Ants,"
+	    <String CONTENT="• CAMELEON, 57, rue Saint-André-des-Ants,"
                     HPOS="1729"
                     VPOS="1958"
                     WIDTH="704"
-                    HEIGHT="59"
-                    WC="0.9836792009217399"></String>
+                    HEIGHT="59"></String>
           </TextLine>
           <TextLine ID="eSc_line_33322db9"
                     TAGREFS="LT497"
@@ -2571,12 +2506,11 @@
                     WIDTH="704"
                     HEIGHT="59">
             <Shape><Polygon POINTS="1731 2143 1731 2159 2433 2165 2435 2143 2431 2106 2407 2116 2076 2106 2066 2106 2064 2106 2062 2106 2033 2116 2017 2106 2015 2106 2014 2106 1731 2106 1731 2143"/></Shape>
-	    <String CONTENT="O JAZZLAND (La Grande Séverine), 7, rue Saint-"
+	    <String CONTENT="• JAZZLAND (La Grande Séverine), 7, rue Saint-"
                     HPOS="1731"
                     VPOS="2106"
                     WIDTH="704"
-                    HEIGHT="59"
-                    WC="0.9937342963320144"></String>
+                    HEIGHT="59"></String>
           </TextLine>
           <TextLine ID="eSc_line_ed4b51ef"
                     TAGREFS="LT497"
@@ -2646,12 +2580,11 @@
                     WIDTH="708"
                     HEIGHT="57">
             <Shape><Polygon POINTS="1725 2319 1723 2336 2427 2344 2431 2325 2429 2289 1725 2287 1725 2319"/></Shape>
-	    <String CONTENT="O RIVERBOAT, 67, rue Saint-André-des-Arts (Se)."
+	    <String CONTENT="• RIVERBOAT, 67, rue Saint-André-des-Arts (Se)."
                     HPOS="1723"
                     VPOS="2287"
                     WIDTH="708"
-                    HEIGHT="57"
-                    WC="0.9907539213697115"></String>
+                    HEIGHT="57"></String>
           </TextLine>
           <TextLine ID="eSc_line_25e73a7a"
                     TAGREFS="LT497"
@@ -2721,12 +2654,11 @@
                     WIDTH="696"
                     HEIGHT="50">
             <Shape><Polygon POINTS="1739 2498 1737 2519 2431 2519 2433 2500 2431 2469 1739 2469 1739 2498"/></Shape>
-	    <String CONTENT="» CAVEAU DE LA MONTAGNE, 18, rue Des¬"
+	    <String CONTENT="• CAVEAU DE LA MONTAGNE, 18, rue Des¬"
                     HPOS="1737"
                     VPOS="2469"
                     WIDTH="696"
-                    HEIGHT="50"
-                    WC="0.9720881468540913"></String>
+                    HEIGHT="50"></String>
           </TextLine>
           <TextLine ID="eSc_line_c45b5180"
                     TAGREFS="LT497"
@@ -2811,12 +2743,11 @@
                     WIDTH="712"
                     HEIGHT="59">
             <Shape><Polygon POINTS="1721 2708 1721 2732 2433 2726 2433 2708 2433 2681 1721 2673 1721 2708"/></Shape>
-	    <String CONTENT="☙ BLUE-NOTE, 27, rue d’Artois (Bal. 18-92). L.l.l."
+	    <String CONTENT="• BLUE-NOTE, 27, rue d’Artois (Bal. 18-92). T.l.j."
                     HPOS="1721"
                     VPOS="2673"
                     WIDTH="712"
-                    HEIGHT="59"
-                    WC="0.9555442202091217"></String>
+                    HEIGHT="59"></String>
           </TextLine>
           <TextLine ID="eSc_line_a147b564"
                     TAGREFS="LT497"
@@ -2871,12 +2802,11 @@
                     WIDTH="706"
                     HEIGHT="58">
             <Shape><Polygon POINTS="1727 2855 1725 2870 2427 2876 2431 2857 2431 2827 1727 2818 1727 2855"/></Shape>
-	    <String CONTENT="OLE SAMMY CLUB, 82, av. de la République,"
+	    <String CONTENT="• LE SAMMY CLUB, 82, av. de la République,"
                     HPOS="1725"
                     VPOS="2818"
                     WIDTH="706"
-                    HEIGHT="58"
-                    WC="0.9892384580203465"></String>
+                    HEIGHT="58"></String>
           </TextLine>
           <TextLine ID="eSc_line_4b041b09"
                     TAGREFS="LT497"
@@ -2916,28 +2846,58 @@
                     WIDTH="714"
                     HEIGHT="51">
             <Shape><Polygon POINTS="1895 2919 1875 2919 1856 2919 1836 2919 1817 2919 1797 2919 1778 2919 1758 2919 1739 2919 1719 2917 1719 2946 1717 2968 2429 2968 2431 2952 2431 2925 1897 2919 1895 2919"/></Shape>
-	    <String CONTENT="quartette (as); lacques Quenzin (vib. st), lacques"
+	    <String CONTENT="quartette (as); Jacques Quenzin (vib. st), Jacques"
                     HPOS="1717"
                     VPOS="2917"
                     WIDTH="714"
-                    HEIGHT="51"
-                    WC="0.9802578234672547"></String>
+                    HEIGHT="51"></String>
           </TextLine>
           <TextLine ID="eSc_line_b6910808"
                     TAGREFS="LT497"
                     BASELINE="1719 2977 2279 2981" 
-                    HPOS="1717"
+                    HPOS="1719"
                     VPOS="2954"
-                    WIDTH="562"
-                    HEIGHT="253">
-            <Shape><Polygon POINTS="1719 2977 1717 3205 2275 3207 2279 2981 2277 2954 1719 2954 1719 2977"/></Shape>
-	    <String CONTENT="G,"
-                    HPOS="1717"
+                    WIDTH="560"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1727 3011 2272 3003 2279 2981 2277 2954 1719 2954 1719 2977"/></Shape>
+	    <String CONTENT="Chaumelle (g), Jacques Dubanton (dm)."
+                    HPOS="1719"
                     VPOS="2954"
-                    WIDTH="562"
-                    HEIGHT="253"
-                    WC="0.533094234764576"></String>
+                    WIDTH="560"
+                    HEIGHT="57"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="109"
+                   VPOS="2018"
+                   WIDTH="769"
+                   HEIGHT="999"
+                   ID="eSc_textblock_b92762d4"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="864 3017 145 2989 109 2018 878 2018"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="929"
+                   VPOS="2007"
+                   WIDTH="743"
+                   HEIGHT="1027"
+                   ID="eSc_textblock_baab6395"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="1672 3029 937 3034 929 2007 1670 2007"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="555"
+                   VPOS="1154"
+                   WIDTH="747"
+                   HEIGHT="696"
+                   ID="eSc_textblock_1ad3fca5"
+                   TAGREFS="BT22">
+          <Shape><Polygon POINTS="555 1154 555 1850 1302 1850 1302 1154"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="141"
+                   VPOS="3012"
+                   WIDTH="66"
+                   HEIGHT="50"
+                   ID="eSc_textblock_92ad2f25"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="207 3062 207 3012 141 3012 141 3062"/></Shape>
         </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_5271bed9"
@@ -2948,12 +2908,11 @@
                     WIDTH="421"
                     HEIGHT="149">
             <Shape><Polygon POINTS="713 1785 713 1818 740 1824 742 1824 744 1824 746 1824 752 1818 772 1806 799 1816 801 1816 803 1816 846 1806 857 1818 863 1822 863 1824 865 1824 867 1824 869 1826 949 1826 949 1824 951 1824 968 1818 1000 1806 1132 1816 1134 1785 1132 1697 1076 1703 982 1691 980 1691 978 1691 949 1707 906 1695 904 1695 902 1695 842 1707 781 1679 775 1677 774 1677 713 1677 713 1785"/></Shape>
-	    <String CONTENT="de puris"
+	    <String CONTENT="de paris"
                     HPOS="713"
                     VPOS="1677"
                     WIDTH="421"
-                    HEIGHT="149"
-                    WC="0.9982179701328278"></String>
+                    HEIGHT="149"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

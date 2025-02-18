@@ -1485,12 +1485,11 @@
                     WIDTH="635"
                     HEIGHT="51">
             <Shape><Polygon POINTS="1251 1194 1232 1194 1212 1194 1193 1194 1173 1194 1154 1194 1134 1194 1115 1194 1111 1190 920 1188 920 1221 918 1239 1551 1239 1553 1225 1551 1196 1251 1192 1251 1194"/></Shape>
-	    <String CONTENT="★1910-19.30 HILVERSUM II (298 m) : Jazz."
+	    <String CONTENT="• 1910-19.30 HILVERSUM II (298 m) : Jazz."
                     HPOS="918"
                     VPOS="1188"
                     WIDTH="635"
-                    HEIGHT="51"
-                    WC="0.9932721927762032"></String>
+                    HEIGHT="51"></String>
           </TextLine>
           <TextLine ID="eSc_line_3b5c4d3a"
                     TAGREFS="LT497"
@@ -2989,10 +2988,10 @@
         <TextBlock HPOS="61"
                    VPOS="2317"
                    WIDTH="743"
-                   HEIGHT="773"
+                   HEIGHT="682"
                    ID="eSc_textblock_bc09a3bc"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="61 2317 61 3090 804 3090 804 2317"/></Shape>
+          <Shape><Polygon POINTS="61 2317 99 2997 804 2999 804 2317"/></Shape>
           <TextLine ID="eSc_line_899a26bd"
                     TAGREFS="LT497"
                     BASELINE="109 2441 596 2441" 
@@ -3833,6 +3832,14 @@
                     HEIGHT="62"
                     WC="0.9577003295222918"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="103"
+                   VPOS="3012"
+                   WIDTH="86"
+                   HEIGHT="40"
+                   ID="eSc_textblock_f177807f"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="189 3052 189 3012 103 3012 103 3052"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

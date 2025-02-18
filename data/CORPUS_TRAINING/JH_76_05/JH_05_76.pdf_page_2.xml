@@ -25,54 +25,10 @@
         <TextBlock HPOS="50"
                    VPOS="144"
                    WIDTH="1151"
-                   HEIGHT="3215"
+                   HEIGHT="3151"
                    ID="eSc_textblock_83cc17d4"
-                   TAGREFS="BT12">
-          <Shape><Polygon POINTS="50 144 50 3359 1201 3359 1201 144"/></Shape>
-          <TextLine ID="eSc_line_1c8d808f"
-                    TAGREFS="LT497"
-                    BASELINE="898 2995 914 2995" 
-                    HPOS="898"
-                    VPOS="2960"
-                    WIDTH="16"
-                    HEIGHT="62">
-            <Shape><Polygon POINTS="898 2995 898 3020 912 3022 914 2995 910 2960 898 2964 898 2995"/></Shape>
-	    <String CONTENT="6"
-                    HPOS="898"
-                    VPOS="2960"
-                    WIDTH="16"
-                    HEIGHT="62"
-                    WC="0.9995278120040894"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_889e1e2b"
-                    TAGREFS="LT497"
-                    BASELINE="1058 3038 1101 3036" 
-                    HPOS="1056"
-                    VPOS="3024"
-                    WIDTH="45"
-                    HEIGHT="47">
-            <Shape><Polygon POINTS="1095 3024 1076 3024 1056 3024 1058 3038 1058 3071 1101 3063 1101 3036 1097 3024 1095 3024"/></Shape>
-	    <String CONTENT="172"
-                    HPOS="1056"
-                    VPOS="3024"
-                    WIDTH="45"
-                    HEIGHT="47"
-                    WC="0.9995222290356954"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_5cc1b139"
-                    TAGREFS="LT497"
-                    BASELINE="1033 3092 1070 3090" 
-                    HPOS="1031"
-                    VPOS="3088"
-                    WIDTH="39"
-                    HEIGHT="36">
-            <Shape><Polygon POINTS="1050 3088 1031 3088 1033 3092 1033 3116 1068 3124 1070 3090 1068 3088 1050 3088"/></Shape>
-	    <String CONTENT=""
-                    HPOS="1031"
-                    VPOS="3088"
-                    WIDTH="39"
-                    HEIGHT="36"></String>
-          </TextLine>
+                   TAGREFS="BT7">
+          <Shape><Polygon POINTS="50 144 110 3291 1193 3295 1201 144"/></Shape>
           <TextLine ID="eSc_line_981f93d5"
                     TAGREFS="LT497"
                     BASELINE="128 3320 191 3320" 
@@ -786,24 +742,11 @@
                     WIDTH="1067"
                     HEIGHT="102">
             <Shape><Polygon POINTS="1313 1926 1313 1979 2088 1984 2091 1984 2093 1984 2096 1984 2096 1982 2114 1967 2120 1964 2380 1964 2380 1926 2377 1882 1313 1888 1313 1926"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="Chet Baker (tp, voc) ; Jacques Pelzer (fl) ; Harold Danko (p) ; Björn Alke (b)"
                     HPOS="1313"
                     VPOS="1882"
                     WIDTH="1067"
                     HEIGHT="102"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_d1bc6185"
-                    TAGREFS="LT497"
-                    BASELINE="1319 1957 2096 1955" 
-                    HPOS="1319"
-                    VPOS="1955"
-                    WIDTH="777"
-                    HEIGHT="2">
-	    <String CONTENT=""
-                    HPOS="1319"
-                    VPOS="1955"
-                    WIDTH="777"
-                    HEIGHT="2"></String>
           </TextLine>
           <TextLine ID="eSc_line_a2f3bbf1"
                     TAGREFS="LT497"
@@ -1358,6 +1301,28 @@
                     HEIGHT="90"
                     WC="0.971507865190506"></String>
           </TextLine>
+          <TextLine ID="eSc_line_9d4a30ee"
+                    TAGREFS="LT497"
+                    BASELINE="1320 1957 2096 1955" 
+                    HPOS="1316"
+                    VPOS="1929"
+                    WIDTH="777"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="2076 1929 2047 1929 2017 1929 1988 1929 1959 1929 1930 1929 1900 1929 1871 1929 1842 1929 1813 1929 1783 1929 1754 1929 1725 1929 1696 1929 1666 1929 1637 1929 1608 1929 1579 1929 1550 1929 1520 1929 1491 1929 1462 1929 1433 1929 1403 1929 1374 1929 1345 1929 1316 1929 1318 1955 1318 1984 2091 1982 2093 1952 2088 1929 2076 1929"/></Shape>
+	    <String CONTENT="American Center for Students and Artists, 27 mars 1976."
+                    HPOS="1316"
+                    VPOS="1929"
+                    WIDTH="777"
+                    HEIGHT="55"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="109"
+                   VPOS="3301"
+                   WIDTH="94"
+                   HEIGHT="34"
+                   ID="eSc_textblock_5cf69e08"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="203 3335 203 3301 109 3301 109 3335"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

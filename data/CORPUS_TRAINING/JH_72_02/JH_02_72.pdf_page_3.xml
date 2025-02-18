@@ -37,12 +37,11 @@
                     WIDTH="515"
                     HEIGHT="164">
             <Shape><Polygon POINTS="541 201 511 201 497 201 447 219 447 222 298 222 295 222 274 204 274 201 271 201 269 201 248 201 219 201 216 201 213 201 102 222 105 306 105 365 617 359 617 301 614 219 543 201 541 201"/></Shape>
-	    <String CONTENT="caboræts"
+	    <String CONTENT="cabarets"
                     HPOS="102"
                     VPOS="201"
                     WIDTH="515"
-                    HEIGHT="164"
-                    WC="0.9911936149001122"></String>
+                    HEIGHT="164"></String>
           </TextLine>
           <TextLine ID="eSc_line_c66541ee"
                     TAGREFS="LT497"
@@ -1125,12 +1124,11 @@
                     WIDTH="384"
                     HEIGHT="68">
             <Shape><Polygon POINTS="1634 1040 1634 1067 2012 1067 2015 1034 2006 999 1631 1002 1634 1040"/></Shape>
-	    <String CONTENT="IAZZ EN STEREOPHONIE"
+	    <String CONTENT="JAZZ EN STEREOPHONIE"
                     HPOS="1631"
                     VPOS="999"
                     WIDTH="384"
-                    HEIGHT="68"
-                    WC="0.9794535100460052"></String>
+                    HEIGHT="68"></String>
           </TextLine>
           <TextLine ID="eSc_line_6117f6f5"
                     TAGREFS="LT497"
@@ -2877,6 +2875,22 @@
                     HEIGHT="56"
                     WC="0.9909181462393867"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1021"
+                   VPOS="2333"
+                   WIDTH="449"
+                   HEIGHT="61"
+                   ID="eSc_textblock_414e2aee"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="1021 2333 1021 2394 1470 2394 1470 2333"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2312"
+                   VPOS="3326"
+                   WIDTH="78"
+                   HEIGHT="50"
+                   ID="eSc_textblock_734b7062"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2390 3376 2390 3326 2312 3326 2312 3376"/></Shape>
         </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_cf75eb0a"

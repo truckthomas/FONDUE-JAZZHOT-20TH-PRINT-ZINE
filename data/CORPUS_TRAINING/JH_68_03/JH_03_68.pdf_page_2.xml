@@ -1861,6 +1861,22 @@
                     WC="0.9835394620895386"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="958"
+                   VPOS="1123"
+                   WIDTH="1500"
+                   HEIGHT="1990"
+                   ID="eSc_textblock_b2aa6fd9"
+                   TAGREFS="BT11">
+          <Shape><Polygon POINTS="2454 3092 2458 1123 958 1123 958 3113"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1566"
+                   VPOS="3127"
+                   WIDTH="220"
+                   HEIGHT="46"
+                   ID="eSc_textblock_3e016991"
+                   >
+          <Shape><Polygon POINTS="1566 3127 1566 3173 1786 3173 1786 3127"/></Shape>
+        </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_e24ce61f"
                     TAGREFS="LT497"

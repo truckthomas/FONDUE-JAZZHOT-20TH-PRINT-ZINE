@@ -2537,6 +2537,22 @@
                     WC="0.9994446635246277"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="38"
+                   VPOS="2116"
+                   WIDTH="2250"
+                   HEIGHT="494"
+                   ID="eSc_textblock_c37bed55"
+                   TAGREFS="BT22">
+          <Shape><Polygon POINTS="38 2116 38 2610 2288 2610 2288 2116"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="33"
+                   VPOS="2698"
+                   WIDTH="687"
+                   HEIGHT="644"
+                   ID="eSc_textblock_2a0c568f"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="33 2698 33 3342 720 3342 720 2698"/></Shape>
+        </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_4b7eb3e8"
                     TAGREFS="LT497"
@@ -2546,12 +2562,11 @@
                     WIDTH="1229"
                     HEIGHT="187">
             <Shape><Polygon POINTS="87 2283 84 2335 190 2318 327 2338 350 2341 353 2341 356 2341 362 2338 418 2315 517 2315 576 2338 584 2341 587 2341 590 2341 614 2338 734 2318 927 2338 973 2341 976 2341 979 2341 982 2341 985 2338 1020 2315 1307 2335 1313 2286 1313 2172 953 2154 950 2154 947 2154 924 2166 891 2180 848 2166 845 2166 842 2166 839 2166 766 2183 742 2163 736 2157 734 2157 731 2157 728 2157 704 2163 602 2189 304 2189 87 2154 87 2283"/></Shape>
-	    <String CONTENT="ctualité"
+	    <String CONTENT="jazz actualités"
                     HPOS="84"
                     VPOS="2154"
                     WIDTH="1229"
-                    HEIGHT="187"
-                    WC="0.9758928616841634"></String>
+                    HEIGHT="187"></String>
           </TextLine>
           <TextLine ID="eSc_line_4c1bdcc9"
                     TAGREFS="LT497"

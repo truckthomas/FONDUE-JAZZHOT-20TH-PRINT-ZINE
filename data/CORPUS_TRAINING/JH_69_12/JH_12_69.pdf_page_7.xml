@@ -1230,12 +1230,11 @@
                     WIDTH="466"
                     HEIGHT="182">
             <Shape><Polygon POINTS="1075 1302 1075 1337 1534 1337 1537 1298 1527 1155 1071 1162 1075 1302"/></Shape>
-	    <String CONTENT="CABARIIS"
+	    <String CONTENT="CABARETS"
                     HPOS="1071"
                     VPOS="1155"
                     WIDTH="466"
-                    HEIGHT="182"
-                    WC="0.992031991481781"></String>
+                    HEIGHT="182"></String>
           </TextLine>
           <TextLine ID="eSc_line_6dd35098"
                     TAGREFS="LT497"
@@ -2306,10 +2305,10 @@
         <TextBlock HPOS="1719"
                    VPOS="1077"
                    WIDTH="762"
-                   HEIGHT="3023"
+                   HEIGHT="2960"
                    ID="eSc_textblock_4c0d4497"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="1719 1077 1719 4100 2481 4100 2481 1077"/></Shape>
+          <Shape><Polygon POINTS="1719 1077 1725 4037 2452 4025 2481 1077"/></Shape>
           <TextLine ID="eSc_line_ad47dd97"
                     TAGREFS="LT497"
                     BASELINE="1739 1150 2447 1150" 
@@ -3435,6 +3434,14 @@
                     HEIGHT="91"
                     WC="0.998790442943573"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2400"
+                   VPOS="4039"
+                   WIDTH="47"
+                   HEIGHT="30"
+                   ID="eSc_textblock_46ee74e1"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2444 4069 2447 4039 2400 4039 2400 4069"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
