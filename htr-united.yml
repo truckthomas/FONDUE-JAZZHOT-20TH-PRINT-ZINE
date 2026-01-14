@@ -22,8 +22,8 @@ characters:
   - d
   - c
   - m
-  - p
   - .
+  - p
   - ','
   - ́
   - h
@@ -31,63 +31,63 @@ characters:
   - b
   - g
   - q
+  - E
   - ’
   - f
   - A
-  - E
   - ̀
-  - L
   - C
+  - L
   - S
   - '-'
   - '2'
   - '1'
   - R
   - M
-  - y
   - z
-  - B
+  - y
   - T
+  - B
+  - '0'
   - (
   - )
-  - '0'
   - ':'
-  - P
   - I
+  - P
   - N
   - D
-  - J
   - O
-  - x
   - F
-  - '3'
+  - J
   - ¬
+  - x
+  - '3'
   - j
-  - G
   - '5'
   - U
+  - G
   - H
   - k
-  - ̂
   - '4'
   - '9'
-  - '6'
+  - ̂
   - '8'
+  - '6'
   - '7'
-  - »
   - V
+  - »
   - w
   - W
   - ;
   - K
   - «
-  - Q
   - "'"
-  - Z
+  - Q
   - '='
+  - Z
+  - •
   - /
   - —
-  - •
   - Y
   - ̧
   - °
@@ -96,14 +96,14 @@ characters:
   - '?'
   - '"'
   - œ
-  - “
   -  
   - '*'
+  - “
   - ̈
   - ·
   - '&'
-  - +
   - '%'
+  - +
   - '|'
   - –
   - ☙
@@ -149,13 +149,13 @@ time:
 title: FONDUE-JAZZHOT-20TH-PRINT-ZINE
 url: https://github.com/truckthomas/FONDUE-JAZZHOT-20TH-PRINT-ZINE
 volume:
-- count: 358270
+- count: 318517
   metric: characters
-- count: 62
+- count: 55
   metric: files
-- count: 9470
+- count: 8700
   metric: lines
 - count: 62
   metric: pages
-- count: 376
+- count: 339
   metric: regions
