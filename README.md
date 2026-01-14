@@ -41,7 +41,7 @@ Le dossier « data » contient des fichiers XML pour l’entraînement du modèl
 
 ## How to cite
 
-Cf. [`htr-united.yml`](https://github.com/truckthomas/FONDUE-JAZZHOT-20TH-PRINT-ZINE/blob/main/htr-united.yml) file.
+Cf. fichier [`htr-united.yml`](https://github.com/truckthomas/FONDUE-JAZZHOT-20TH-PRINT-ZINE/blob/main/htr-united.yml).
 
 
 ## Licences
