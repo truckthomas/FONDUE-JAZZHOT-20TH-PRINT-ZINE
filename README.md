@@ -38,7 +38,7 @@ Le dossier « data » contient les fichiers XML pour l’entraînement du modèl
 
 
 
-## How to cite
+## Citer
 
 Cf. fichier [`htr-united.yml`](https://github.com/truckthomas/FONDUE-JAZZHOT-20TH-PRINT-ZINE/blob/main/htr-united.yml).
 
@@ -48,7 +48,7 @@ Cf. fichier [`htr-united.yml`](https://github.com/truckthomas/FONDUE-JAZZHOT-20T
 Images numérisées à partir des archives de l'auteur.
 Transcriptions sous licence CC BY-NC 4.0 license. 
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0;width:15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cc_by-nc_icon.svg/2880px-Cc_by-nc_icon.svg.png" /></a><br /> 
+<a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cc_by-nc_icon.svg" /></a><br /> 
 
 
 
