@@ -2,7 +2,7 @@
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
 
-Ce dépôt contiens les données d'entraînement pour le projet "Concerts et itinéraires : spatialiser le free jazz en Europe d’après Jazz Hot (1966-1976)" dans le cadre certificat en Humanité de Thomas Gauffroy-Naudin, sous la direction de Simon Gabay à l’Université de Genève.
+Ce dépôt contient les données d'entraînement pour le projet "Concerts et itinéraires : spatialiser le free jazz en Europe d’après Jazz Hot (1966-1976)" dans le cadre certificat en Humanité de Thomas Gauffroy-Naudin à l’Université de Genève.
 
 ## Description :
 Le corpus d’entraînement se compose d’un échantillon de 55 pages. Le déséquilibre de l’échantillonnage se justifie par une large variation typographique selon les numéros. En effet, ceux de 1968 et 1969 sont davantage représentés en raison de changements de mise en page et de police plus fréquents durant cette période, tandis que les numéros des années 1970 sont plus homogènes dans leur typographie.
