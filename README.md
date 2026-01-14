@@ -3,15 +3,19 @@
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
 
-This repository is a work in progress for Thomas Gauffroy-Naudin's DH certificate project, supervised by Simon Gabay at the University of Geneva.
+Ce dépôt contiens les données d'entraînement pour le projet "Concerts et itinéraires : spatialiser le free jazz en Europe d’après Jazz Hot (1966-1976)" dans le cadre certificat en Humanité de Thomas Gauffroy-Naudin, sous la direction de Simon Gabay à l’Université de Genève.
 
-It currently contains a sample corpus for training an OCR model to transcribe 20th-century print periodicals, specifically using data from the French jazz magazine JAZZ HOT from 1966 to 1980. The sources primarily focus on the news and program columns of these magazines.
+Le corpus d’entraînement se compose d’un échantillon de 55 pages. Le déséquilibre de l’échantillonnage se justifie par une large variation typographique selon les numéros. En effet, ceux de 1968 et 1969 sont davantage représentés en raison de changements de mise en page et de police plus fréquents durant cette période, tandis que les numéros des années 1970 sont plus homogènes dans leur typographie.
 
-Description:
-- A detailed list of texts is provided below.
-- the "data" folder contains XML files for training the model, along with the corresponding PNG page images.
+Ces images ont d'abord été transcrites à l'aide du modèle Catmus-Print (large), puis corrigées manuellement afin d'adapter la reconnaissance à la typographie du magazine. Le modèle affiné, CATMuS Jazz Hot, sert désormais de référence pour le projet.
 
-#### "CORPUS_TRAINING" folder
+Description :
+
+Une liste détaillée des textes est fournie ci-dessous.
+
+Le dossier « data » contient des fichiers XML pour l’entraînement du modèle, ainsi que les images de pages correspondantes au format PNG.
+
+#### dossier "CORPUS_TRAINING"
 
 | id        | date     | pages | notes |
 |-----------|---------|-------|-------|
@@ -31,9 +35,6 @@ Description:
 | JH_74_03 | 1974-03 |  4     |       |
 | JH_75_01 | 1975-01 |  4     |       |
 | JH_76_05 | 1976-05 |  3     |       |
-| JH_77_02 | 1977-02 |  4     |       |
-| JH_78_04 | 1978-04 |  6     |       |
-| JH_79_09 | 1979-09 |  1     |       |
 
 
 
